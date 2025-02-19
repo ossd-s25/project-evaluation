@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Musescore
 
 
 ---
@@ -13,104 +13,77 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [VScode](https://code.visualstudio.com/)
+__Project website:__ [Musescore](https://musescore.org/en)
 
 
-__What is the purpose of the project:__ 
-
-According to VScode's website, the project is supposed to be a "delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas." 
+__What is the purpose of the project:__ Musescore is an open source music notation software.
 
 
-__How easy was it to find information about contributing on the website?__ 
-The information was found by scrolling to the bottom of the website, clicking a link to the project's github repository, and then the CONTRIBUTING.md was immediately visible.
+__How easy was it to find information about contributing on the website?__: very easy
 
-__Contributing instructions:__ [main CONTRIBUTING.MD](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](https://github.com/microsoft/vscode)
+__Contributing instructions:__ [Here](https://github.com/musescore/MuseScore/wiki/Contributing) 
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/microsoft/vscode/issues)
+__URL for the code repository:__ [Code repository](https://github.com/musescore/MuseScore)
 
-__Mailing list:__ Not found
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/musescore/MuseScore/wiki/Reporting-bugs-and-issues)
 
-__Chat channel:__ Not found
+__Mailing list:__ [Mailing list](N/A)
 
-__Other communication channels:__ 
+__Chat channel:__ [Chat channel](https://discord.gg/HwHhXEbJ4r)
 
-[StackOverflow](https://stackoverflow.com/questions/tagged/vscode)
+__Other communication channels:__ [Musescore Forum] (https://musescore.org/forum)
+
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [MIT License](https://github.com/microsoft/vscode/blob/main/LICENSE.txt)
+__License:__ [License](https://github.com/musescore/MuseScore/blob/master/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT License
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ [GNU Pulic License](https://opensource.org/license/gpl-3-0)
 
-__Programming Language(s):__ 
-* C++ 
-* C# 
-* CSS 
-* Dart 
-* Dockerfile 
-* F# 
-* Go 
-* HTML 
-* Java 
-* JavaScript 
-* JSON 
-* Julia 
-* Less 
-* Markdown 
-* PHP 
-* PowerShell 
-* Python 
-* R 
-* Ruby 
-* Rust 
-* SCSS 
-* T-SQL 
-* TypeScript
+__Programming Language(s):__ C++
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/musescore/MuseScore/wiki/Contributing)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ They are extremely clear and offer guidelines, tutorials,and setup instructions.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://opensource.microsoft.com/codeofconduct/)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/musescore/MuseScore/blob/master/CODE_OF_CONDUCT.md)
 
-__URL for instructions for users to download and install the package:__  [here](https://code.visualstudio.com/download). 
-
-
-__Are these instructions clear? Do you think they would be easy to follow?__ 
-Yes, there are little to no needed instructions. Clicking download on the site will download VScode.
-
-__URL for instructions for how to install development environment:__ [here](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+__URL for instructions for users to download and install the package:__  [here](https://github.com/musescore/MuseScore/wiki/CodeStructure). 
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
-These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are easy to follow.
 
-__Number of contributors:__ 2,147 contributors
+
+__URL for instructions for how to install development environment:__ [here](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment)
+
+
+__Are these instruction clear? Do you think they would be easy to follow?__Yes, the instructions are clear.
+
+
+__Number of contributors:__ 389 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [bpasero] (13,382 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/0fe195613ed9901f669cd0f799fe807f0189d029)
-2. [jrieken] (11,973 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/94fcd5981a9de1f6309dd3a21dc8b5110f634ce9)
-3. [Tyriar] (10,759 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/9e10294e18b2f53f144ca3757048d6f8a1ce2350)
+1. [lasconic] (4710 commits) - [fix #276384: Show invisible shortcut does not work until screen is redrawn](https://github.com/musescore/MuseScore/commit/828a14df263bc8a15bdff4e399a898a0aee2d667)
+1. [RomanPudashkin] (4486 commits) - [Merge pull request #26587 from RomanPudashkin/450_nightly_builds](https://github.com/musescore/MuseScore/commit/e64a84d46e595fdccd3a0cba16f760890bc74539)
+1. [wschweer] (3518 commits) - [Add changes from mattmcclinch to fix regression tests for musicxml and gtp import and scripting.](https://github.com/musescore/MuseScore/commit/9efd3012424c8f3160325e8d79ffc9ea77c9dfdd)
 
 
-__Number of commits:__ 129,962 commits
+__Number of commits:__ xxxx commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](https://github.com/microsoft/vscode/commit/94af5df750f19844e01311e1dd14b3f42441a857)
+- __link to the commit:__ [Latest commit](insert link here)
 
-- __who made that commit:__ meganrogge
+- __who made that commit:__ 
 
-- __what type of work was commited?__ issue #241231 was fixed
-
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 
 
 __Issues__
@@ -226,5 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
 
