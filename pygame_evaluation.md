@@ -33,11 +33,14 @@ __Contributing instructions:__ \
 __URL for the code repository:__ \
 [GitHub: pygame](https://github.com/pygame/pygame)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__
+[Bug/Issue tracker](https://github.com/pygame/pygame/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ \
+[Mailing list](insert link here)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ \
+[Pygame Discord](https://discord.com/invite/pygame)
 
 __Other communication channels:__ 
 
@@ -46,11 +49,14 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ \
+[LGPL](insert link here)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ \
+True
 
-__Programming Language(s):__ 
+__Programming Language(s):__ \
+C and Python
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
