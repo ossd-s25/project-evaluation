@@ -90,7 +90,7 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2147 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
@@ -114,9 +114,9 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [8502 Open Issues](https://github.com/microsoft/vscode/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/microsoft/vscode/issues/241235)
 
     - __how many users discuss the issue:__ xx person
     
