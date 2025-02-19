@@ -76,40 +76,41 @@ __URL for contributing instructions:__ [Contributing instructions](insert link h
 __Are the contributing instructions clear?__ 
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://opensource.microsoft.com/codeofconduct/)
 
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__URL for instructions for users to download and install the package:__  [here](https://code.visualstudio.com/download). 
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
+Yes, there are little to no needed instructions. Clicking download on the site will download VScode.
 
-
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
+These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2,147 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [bpasero] (13,382 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/0fe195613ed9901f669cd0f799fe807f0189d029)
+2. [jrieken] (11,973 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/94fcd5981a9de1f6309dd3a21dc8b5110f634ce9)
+3. [Tyriar] (10,759 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/9e10294e18b2f53f144ca3757048d6f8a1ce2350)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 129,962 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/microsoft/vscode/commit/94af5df750f19844e01311e1dd14b3f42441a857)
 
-- __who made that commit:__ 
+- __who made that commit:__ meganrogge
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ issue #241231 was fixed
+
 
 
 __Issues__
