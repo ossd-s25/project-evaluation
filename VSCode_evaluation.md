@@ -78,17 +78,17 @@ __Are the contributing instructions clear?__
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://opensource.microsoft.com/codeofconduct/)
 
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__URL for instructions for users to download and install the package:__  [here](https://code.visualstudio.com/download). 
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
+Yes, there are little to no needed instructions. Clicking download on the site will download VScode.
 
-
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [here](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
-
+These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
 __Number of contributors:__ xxx contributors
 
