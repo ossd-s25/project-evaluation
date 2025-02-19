@@ -173,7 +173,7 @@ for this project. Complete the following for each member:
 |:--:|:--:|:--:|:--:|
 | Jack Tinker | / | / | / |
 | Yufeng Xu | MacOS | Successful | ~9 minutes |
-| Harry Yang | / | / | / |
+| Harry Yang | MacOS 15.3 | Successful | 7min |
 
 
 
