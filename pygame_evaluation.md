@@ -160,46 +160,56 @@ Merged pull request to fix command
 __Issues__
 
 
-- __how many open issues are there:__ 
+- __how many open issues are there:__  \
 [4500 Open Issues](https://github.com/pygame/pygame/issues)
 
 
-   - __url for the last issue created:__ [Multiplayer Game](https://github.com/pygame/pygame/issues/4454)
+   - __url for the last issue created:__ \
+   [Multiplayer Game](https://github.com/pygame/pygame/issues/4454)
 
 
-   - __how many users discuss the issue:__ 0 person
+   - __how many users discuss the issue:__ \
+   0 person
   
-   - __when was the issue reported:__ Feb 14, 2025
+   - __when was the issue reported:__ \
+   Feb 14, 2025
   
 
 
-- __how many closed issues are there:__ [1705 closed issues](https://github.com/pygame/pygame/issues?q=is%3Aissue%20state%3Aclosed)
-   - __url for the last issue closed:__ [NBA stars](https://github.com/pygame/pygame/issues/4442)
-   - __how many users discussed the issue:__ 0 people
-   - __when was the issue reported:__ Feb 3, 2025
-   - __when was the issue closed:__ Feb 3, 2025
+- __how many closed issues are there:__\
+s [1705 closed issues](https://github.com/pygame/pygame/issues?q=is%3Aissue%20state%3Aclosed)
+   - __url for the last issue closed:__ \
+    [NBA stars](https://github.com/pygame/pygame/issues/4442)
+   - __how many users discussed the issue:__ \
+    0 people
+   - __when was the issue reported:__\
+    Feb 3, 2025
+   - __when was the issue closed:__ \
+   Feb 3, 2025
 
 
 - __how active is the discussion on the issues:__
 
 
-   - __example of a lot of good discussion:__ [Pygame not compatible with MacOS Mojave](https://github.com/pygame/pygame/issues/555)
+   - __example of a lot of good discussion:__ \
+   [Pygame not compatible with MacOS Mojave](https://github.com/pygame/pygame/issues/555)
   
-   - __example of an issue that does not have much discussion:__ [NBA stars](https://github.com/pygame/pygame/issues/4442)
+   - __example of an issue that does not have much discussion:__ \
+   [NBA stars](https://github.com/pygame/pygame/issues/4442)
 
 
 
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ \
 Yes: good first issue. There is also the “easy” tag
 
 
-   - __how many of such issues are there?__ 
+   - __how many of such issues are there?__  \
 6 issues, all open (good first issue)
   
-   - __look at a few of them, do they look beginner friendly?__
+   - __look at a few of them, do they look beginner friendly?__ \
 Yes, most of them are one line code changes and documentation suggestions
 
 
@@ -207,14 +217,14 @@ Yes, most of them are one line code changes and documentation suggestions
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ \
 Yes: docs
 
 
-   - __how many of such issues are there?__ 
+   - __how many of such issues are there?__ \
 	22 open, 204 closed
   
-   - __look at a few of them, do you think you could submit a fix?__
+   - __look at a few of them, do you think you could submit \a fix?__
 	Yes
 
 
@@ -226,22 +236,28 @@ __Pull requests__
 - __how many open pull requests are there:__ 44 pull requests
 
 
-   - __url for the last pull request created:__ [Last Pull Request created](https://github.com/pygame/pygame/pull/4453)  
+   - __url for the last pull request created:__ \
+   [Last Pull Request created](https://github.com/pygame/pygame/pull/4453)  
   
-   - __when was the last pull request made: __ Feb,13,2025
+   - __when was the last pull request made:\
+    __ Feb,13,2025
 
 
-   - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/pygame/pygame/pull/2340)
+   - __url for the oldest pull request created:__ \
+   [Oldest Pull Request created](https://github.com/pygame/pygame/pull/2340)
   
-   - __when was the oldest pull request made:__ Nov,29,2020
+   - __when was the oldest pull request made:__ \
+   Nov,29,2020
 
 
 - __how many closed pull requests are there:__
 
 
-   - __url for the last pull request closed:__ [Last Pull Request closed]()
+   - __url for the last pull request closed:__ \
+   [Last Pull Request closed]()
   
-   - __how many users discussed the pull request:__ xx users
+   - __how many users discussed the pull request:__\
+    xx users
   
    - __when was the pull request made:__ 
   
