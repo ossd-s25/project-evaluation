@@ -16,7 +16,7 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](https://godotengine.org/)
 
 
-__What is the purpose of the project:__ An engine created to develope 2D & 3D games.
+__What is the purpose of the project:__ An engine created to develop 2D & 3D games.
 
 
 __How easy was it to find information about contributing on the website?__ It was easy. There is a big contribute button on the navigation bar.
@@ -28,7 +28,7 @@ __URL for the code repository:__ [Code repository](https://github.com/godot-prop
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/godotengine/godot/issues)
 
-__Mailing list:__ [Commercial Support](support@godotengine.org) [Security Vulnerability](security@godotengine.org) [General Inqiries](contact@godotengine.org)
+__Mailing list:__ [Commercial Support](support@godotengine.org) [Security Vulnerability](security@godotengine.org) [General Inquiries](contact@godotengine.org)
 
 __Chat channel:__ [Contributor's Chat](https://chat.godotengine.org/home) 
 
@@ -49,7 +49,7 @@ __URL for contributing instructions:__ [Contributing instructions](https://githu
 __Are the contributing instructions clear?__ Yes, the contributing instructions are comprehensive and provide detailed guidelines on how to report issues, propose features, and submit pull requests. They also include information on coding standards and best practices to ensure consistency and quality in contributions.
 
 
-__URL for code of conduct / community norms / community guildelines:__  [Community Guidelines](https://godotengine.org/code-of-conduct/)
+__URL for code of conduct / community norms / community guidelines:__  [Community Guidelines](https://godotengine.org/code-of-conduct/)
 
 __URL for instructions for users to download and install the package:__  [Binary Download](https://godotengine.org/download)
 
@@ -60,7 +60,7 @@ __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 __URL for instructions for how to install development environment:__  [Compiling From Source](https://docs.godotengine.org/en/latest/contributing/development/compiling/)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the download and installation instructions are straightforward, providing direct links to download the engine for various platforms. As you attempt to install, you may run into issues where you'll have to download depencies.
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the download and installation instructions are straightforward, providing direct links to download the engine for various platforms. As you attempt to install, you may run into issues where you'll have to download dependencies.
 
 
 __Number of contributors:__ 2,852 contributors
@@ -82,7 +82,7 @@ __Latest commit__
 
 - __who made that commit:__ [Thaddeus Crews](https://github.com/Repiteo)
 
-- __what type of work was commited?__ Fixing a bug with a rendering tool
+- __what type of work was committed?__ Fixing a bug with a rendering tool
 
 
 __Issues__
@@ -179,7 +179,7 @@ __Do the maintainers respond helpfully to questions in issues?__ Yes, maintainer
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, the community fosters a welcoming environment across GitHub, forums, and chat platforms. A lot contributors in the chat have taken to using reactions (👍, 👎, 🚀, 🎉, 👀, ❤️, 😄, 😕) to express their feelings about comments.
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, the community fosters a welcoming environment across GitHub, forums, and chat platforms. A lot of contributors in the chat have taken to using reactions (👍, 👎, 🚀, 🎉, 👀, ❤️, 😄, 😕) to express their feelings about comments.
 
 
 
