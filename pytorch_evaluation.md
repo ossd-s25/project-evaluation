@@ -83,47 +83,49 @@ __Latest commit__
 
 - __who made that commit:__ rmaz
 
-- __what type of work was commited?__ (It was )
+- __what type of work was commited?__ (It was a fix because it disabled warnings for unused arguments, which can be thought of as a bug of the library.)
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [14,525 Open Issues](https://github.com/pytorch/pytorch/issues?q=is%3Aissue%20state%3Aopen%20)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Performance regression on modded-nanogpt torch-2.7.0.dev20250208→torch-2.7.0.dev20250209 #147463](https://github.com/pytorch/pytorch/issues/147463)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Feb 19, 2025, 12:11 pm ET
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [34,438 closed issues](https://github.com/pytorch/pytorch/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [[Triton upstream] [Inductor] [ROCm] LLVM failure in some gemm kernels #147377](https://github.com/pytorch/pytorch/issues/147377)
+    - __how many users discussed the issue:__ 3 people
+    - __when was the issue reported:__ Feb 18, 2025
+    - __when was the issue closed:__ Feb 19, 2025, 9 am ET
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Unable to use XPU device on PyTorch 2.6 #147226](https://github.com/pytorch/pytorch/issues/147226)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Never ending compile #147327](https://github.com/pytorch/pytorch/issues/147327)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ [6 easy issues](https://github.com/pytorch/pytorch/issues?q=is%3Aissue%20label%3Aeasy%20)
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ They look beginner friendly because they are all document-related issues.
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
     - __how many of such issues are there?__ 
+        - [73 "topic: docs" issues](https://github.com/pytorch/pytorch/issues?q=is%3Aissue%20label%3A%22topic%3A%20docs%22%20)
+        - [1,769 "module: docs" issues](https://github.com/pytorch/pytorch/issues?q=is%3Aissue%20label%3A%22module%3A%20docs%22)
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes, some issues of them are related to fonts, formatting, or broken link. Some technical issues are trivial and can be solved with the knowledge we have.
 
 
 
