@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  PyTorch
+__Project Name: Whiskey__  
 
 
 ---
@@ -13,26 +13,26 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [PyTorch](https://pytorch.org/)
+__Project website:__ [Website](https://getwhisky.app/)
 
 
 __What is the purpose of the project:__ 
-
+The purpose of the project is to allow users to easily run Windows apps and games on macOS with Wine and Apple's Game Porting Toolkit, without having to deal with the command line interface or dealing with installing a Windows VM on macOS.
 
 __How easy was it to find information about contributing on the website?__ 
+It was slightly hard to 
 
+__Contributing instructions:__ [Here](insert link here) 
 
-__Contributing instructions:__ [PyTorch Contribution Guide](https://pytorch.org/docs/stable/community/contribution_guide.html) 
+__URL for the code repository:__ [Code repository](insert link here)
 
-__URL for the code repository:__ [PyTorch](https://github.com/pytorch/pytorch)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/pytorch/pytorch/issues)
+__Mailing list:__ [Mailing list](insert link here)
 
-__Mailing list:__ [Mailing list](https://twitter.us14.list-manage.com/subscribe?u=75419c71fe0a935e53dfa4a3f&id=91d0dccd39)
+__Chat channel:__ [Chat channel](insert link here)
 
-__Chat channel:__ [PyTorch Slack](https://pytorch.slack.com/)
-
-__Other communication channels:__ [PyTorch Forums](https://discuss.pytorch.org/)
+__Other communication channels:__ 
 
 
 ---
