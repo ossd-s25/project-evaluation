@@ -13,115 +13,84 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [VScode](https://code.visualstudio.com/)
+__Project website:__ [Website](insert link here)
 
 
 __What is the purpose of the project:__ 
 
-According to VScode's website, the project is supposed to be a "delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas." 
-
 
 __How easy was it to find information about contributing on the website?__ 
-The information was found by scrolling to the bottom of the website, clicking a link to the project's github repository, and then the CONTRIBUTING.md was immediately visible.
 
-__Contributing instructions:__ [main CONTRIBUTING.MD](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](https://github.com/microsoft/vscode)
+__Contributing instructions:__ [Here](insert link here) 
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/microsoft/vscode/issues)
+__URL for the code repository:__ [Code repository](insert link here)
 
-__Mailing list:__ Not found
+__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
 
-__Chat channel:__ Not found
+__Mailing list:__ [Mailing list](insert link here)
+
+__Chat channel:__ [Chat channel](insert link here)
 
 __Other communication channels:__ 
 
-[StackOverflow](https://stackoverflow.com/questions/tagged/vscode)
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [MIT License](https://github.com/microsoft/vscode/blob/main/LICENSE.txt)
+__License:__ [License](insert link here)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT License
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language(s):__ 
-* C++ 
-* C# 
-* CSS 
-* Dart 
-* Dockerfile 
-* F# 
-* Go 
-* HTML 
-* Java 
-* JavaScript 
-* JSON 
-* Julia 
-* Less 
-* Markdown 
-* PHP 
-* PowerShell 
-* Python 
-* R 
-* Ruby 
-* Rust 
-* SCSS 
-* T-SQL 
-* TypeScript
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
 __Are the contributing instructions clear?__ 
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://opensource.microsoft.com/codeofconduct/)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
 
-__URL for instructions for users to download and install the package:__  [here](https://code.visualstudio.com/download). 
+__URL for instructions for users to download and install the package:__  [here](insert link here). 
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-Yes, there are little to no needed instructions. Clicking download on the site will download VScode.
 
-__URL for instructions for how to install development environment:__ [here](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+
+__URL for instructions for how to install development environment:__ [here](insert link here)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
-These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-<<<<<<< HEAD
-__Number of contributors:__ 2147 contributors
-=======
-__Number of contributors:__ 2,147 contributors
->>>>>>> b16d676cef13ef32e2d8f1ff67d707b2fb8f0a66
+
+__Number of contributors:__ xxx contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [bpasero] (13,382 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/0fe195613ed9901f669cd0f799fe807f0189d029)
-2. [jrieken] (11,973 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/94fcd5981a9de1f6309dd3a21dc8b5110f634ce9)
-3. [Tyriar] (10,759 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/9e10294e18b2f53f144ca3757048d6f8a1ce2350)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 
 
-__Number of commits:__ 129,962 commits
+__Number of commits:__ xxxx commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](https://github.com/microsoft/vscode/commit/94af5df750f19844e01311e1dd14b3f42441a857)
+- __link to the commit:__ [Latest commit](insert link here)
 
-- __who made that commit:__ meganrogge
+- __who made that commit:__ 
 
-- __what type of work was commited?__ issue #241231 was fixed
-
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 
 
 __Issues__
 
-- __how many open issues are there:__ [8502 Open Issues](https://github.com/microsoft/vscode/issues)
+- __how many open issues are there:__ [xxx Open Issues](insert link here)
 
-    - __url for the last issue created:__ [Last issue created](https://github.com/microsoft/vscode/issues/241235)
+    - __url for the last issue created:__ [Last issue created](insert link here)
 
     - __how many users discuss the issue:__ xx person
     
@@ -230,5 +199,3 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
-
