@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  Pygame
+__Project Name: Whiskey__  
 
 
 ---
@@ -13,50 +13,37 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ \
-[pygame](https://www.pygame.org/news)
+__Project website:__ [Website](https://getwhisky.app/)
 
 
-__What is the purpose of the project:__ \
-Pygame_ is a free and open-source cross-platform library
-for the development of multimedia applications like video games using Python.
+__What is the purpose of the project:__ 
+The purpose of the project is to allow users to easily run Windows apps and games on macOS with Wine and Apple's Game Porting Toolkit, without having to deal with the command line interface or dealing with installing a Windows VM on macOS.
 
+__How easy was it to find information about contributing on the website?__ 
+It was slightly hard to find the contributing information on the website. We had to go on the GitHub link from the main website, and then find the actual `CONTRIBUTING.md` file amongst the file tree in the GitHub repo (though fortunately, it was in the root directory).
 
-__How easy was it to find information about contributing on the website?__ \
-Very easy
+__Contributing instructions:__ [Here](https://github.com/Whisky-App/Whisky/blob/main/CONTRIBUTING.md) 
 
+__URL for the code repository:__ [Code repository](https://github.com/Whisky-App/Whisky)
 
-__Contributing instructions:__ \
-[Contribute: Pygame Wiki](https://www.pygame.org/wiki/Contribute) 
-[Contributing to Docs](https://github.com/pygame/pygame/tree/main/docs)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/Whisky-App/Whisky/issues)
 
-__URL for the code repository:__ \
-[GitHub: pygame](https://github.com/pygame/pygame)
+__Mailing list:__ None, although [Discord here](https://discord.gg/CsqAfs9CnM)
 
-__Bug/Issue tracker link:__
-[Bug/Issue tracker](https://github.com/pygame/pygame/issues)
+__Chat channel:__ [Discord](https://discord.gg/CsqAfs9CnM)
 
-__Mailing list:__ \
-[Mailing list](insert link here)
-
-__Chat channel:__ \
-[Pygame Discord](https://discord.com/invite/pygame)
-
-__Other communication channels:__ 
+__Other communication channels:__ No
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ \
-[LGPL](insert link here)
+__License:__ [License](insert link here)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ \
-True
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language(s):__ \
-C and Python
+__Programming Language(s):__ 
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 

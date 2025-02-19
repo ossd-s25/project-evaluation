@@ -22,68 +22,68 @@ __What is the purpose of the project:__
 __How easy was it to find information about contributing on the website?__ 
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [PyTorch Contribution Guide](https://pytorch.org/docs/stable/community/contribution_guide.html) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [PyTorch](https://github.com/pytorch/pytorch)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/pytorch/pytorch/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](https://twitter.us14.list-manage.com/subscribe?u=75419c71fe0a935e53dfa4a3f&id=91d0dccd39)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [PyTorch Slack](https://pytorch.slack.com/)
 
-__Other communication channels:__ 
+__Other communication channels:__ [PyTorch Forums](https://discuss.pytorch.org/)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/pytorch/pytorch/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ No.
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python, C++, Cuda, C, Objective-C++, CMake
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/pytorch/pytorch/blob/main/CODE_OF_CONDUCT.md)
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are easy to follow.
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__URL for instructions for how to install development environment:__ [Installation](https://github.com/pytorch/pytorch?tab=readme-ov-file#installation)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, they are very detailed and easy to follow.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 3,678 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [ezyang] (3,294 commits) - [Add nitpick warning that aoti_torch/c/shim.h is ABI stable (#145745)](https://github.com/pytorch/pytorch/commit/635b98fa087fa21acfdf35e95e0f2c2f56064605)
+1. [pytorchmergebot] (3,042 commits) - [Revert "Add torch._scaled_mm for CPU (#139975)"](https://github.com/pytorch/pytorch/commit/babb2dc2afd8f9ace955df3e8773664ee6e438a7)
+1. [malfet] (2,416 commits) - [[MPS][BE] Turn exec_unary_kernel as MetalShaderLibrary method (#147299)](https://github.com/pytorch/pytorch/commit/e8b20f6ef39e006e6da90de736ae85a1ba55c159)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 84,546 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [[caffe2] disable warning for unused arguments (#147411)](https://github.com/pytorch/pytorch/commit/9fee408daa9573c387ccc0682562c91598b70deb)
 
-- __who made that commit:__ 
+- __who made that commit:__ rmaz
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (It was )
 
 
 __Issues__
