@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__ Gadot
 
 
 ---
@@ -13,20 +13,18 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [VScode](https://code.visualstudio.com/)
+__Project website:__ [Website](insert link here)
 
 
 __What is the purpose of the project:__ 
 
-According to VScode's website, the project is supposed to be a "delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas." 
-
 
 __How easy was it to find information about contributing on the website?__ 
-The information was found by scrolling to the bottom of the website, clicking a link to the project's github repository, and then the CONTRIBUTING.md was immediately visible.
 
-__Contributing instructions:__ [main CONTRIBUTING.MD](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](https://github.com/microsoft/vscode)
+__Contributing instructions:__ [Here](insert link here) 
+
+__URL for the code repository:__ [Code repository](insert link here)
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
 
@@ -201,5 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
 
