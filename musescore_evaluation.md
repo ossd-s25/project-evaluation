@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  Pygame
+__Project Name:__  Musescore
 
 
 ---
@@ -13,50 +13,37 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ \
-[pygame](https://www.pygame.org/news)
+__Project website:__ [Musescore](https://musescore.org/en)
 
 
-__What is the purpose of the project:__ \
-Pygame_ is a free and open-source cross-platform library
-for the development of multimedia applications like video games using Python.
+__What is the purpose of the project:__ Musescore is an open source music notation software.
 
 
-__How easy was it to find information about contributing on the website?__ \
-Very easy
+__How easy was it to find information about contributing on the website?__: very easy
 
 
-__Contributing instructions:__ \
-[Contribute: Pygame Wiki](https://www.pygame.org/wiki/Contribute) 
-[Contributing to Docs](https://github.com/pygame/pygame/tree/main/docs)
+__Contributing instructions:__ [Here](https://github.com/musescore/MuseScore/wiki/Contributing) 
 
-__URL for the code repository:__ \
-[GitHub: pygame](https://github.com/pygame/pygame)
+__URL for the code repository:__ [Code repository](https://github.com/musescore/MuseScore)
 
-__Bug/Issue tracker link:__
-[Bug/Issue tracker](https://github.com/pygame/pygame/issues)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/musescore/MuseScore/wiki/Reporting-bugs-and-issues)
 
-__Mailing list:__ \
-[Mailing list](insert link here)
+__Mailing list:__ [Mailing list](N/A)
 
-__Chat channel:__ \
-[Pygame Discord](https://discord.com/invite/pygame)
+__Chat channel:__ [Chat channel](https://discord.gg/HwHhXEbJ4r)
 
-__Other communication channels:__ 
+__Other communication channels:__ [Musescore Forum] (https://musescore.org/forum)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ \
-[LGPL](insert link here)
+__License:__ [License](https://github.com/musescore/MuseScore/blob/master/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ \
-True
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language(s):__ \
-C and Python
+__Programming Language(s):__ 
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
