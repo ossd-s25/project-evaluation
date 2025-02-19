@@ -41,38 +41,38 @@ __Other communication channels:__ [Musescore Forum] (https://musescore.org/forum
 
 __License:__ [License](https://github.com/musescore/MuseScore/blob/master/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ [GNU Pulic License](https://opensource.org/license/gpl-3-0)
 
-__Programming Language(s):__ 
+__Programming Language(s):__ C++
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/musescore/MuseScore/wiki/Contributing)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ They are extremely clear and offer guidelines, tutorials,and setup instructions.
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/musescore/MuseScore/blob/master/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/musescore/MuseScore/wiki/CodeStructure). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are easy to follow.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ [here](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__Yes, the instructions are clear.
+
+
+__Number of contributors:__ 389 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [lasconic] (4710 commits) - [fix #276384: Show invisible shortcut does not work until screen is redrawn](https://github.com/musescore/MuseScore/commit/828a14df263bc8a15bdff4e399a898a0aee2d667)
+1. [RomanPudashkin] (4486 commits) - [Merge pull request #26587 from RomanPudashkin/450_nightly_builds](https://github.com/musescore/MuseScore/commit/e64a84d46e595fdccd3a0cba16f760890bc74539)
+1. [wschweer] (3518 commits) - [Add changes from mattmcclinch to fix regression tests for musicxml and gtp import and scripting.](https://github.com/musescore/MuseScore/commit/9efd3012424c8f3160325e8d79ffc9ea77c9dfdd)
 
 
 __Number of commits:__ xxxx commits
