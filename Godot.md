@@ -16,7 +16,7 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](https://godotengine.org/)
 
 
-__What is the purpose of the project:__ An engine created to develope 2D & 3D games.
+__What is the purpose of the project:__ An engine created to develop 2D & 3D games.
 
 
 __How easy was it to find information about contributing on the website?__ It was easy. There is a big contribute button on the navigation bar.
@@ -28,7 +28,7 @@ __URL for the code repository:__ [Code repository](https://github.com/godot-prop
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/godotengine/godot/issues)
 
-__Mailing list:__ [Commercial Support](support@godotengine.org) [Security Vulnerability](security@godotengine.org) [General Inqiries](contact@godotengine.org)
+__Mailing list:__ [Commercial Support](support@godotengine.org) [Security Vulnerability](security@godotengine.org) [General Inquiries](contact@godotengine.org)
 
 __Chat channel:__ [Contributor's Chat](https://chat.godotengine.org/home) 
 
@@ -49,7 +49,7 @@ __URL for contributing instructions:__ [Contributing instructions](https://githu
 __Are the contributing instructions clear?__ Yes, the contributing instructions are comprehensive and provide detailed guidelines on how to report issues, propose features, and submit pull requests. They also include information on coding standards and best practices to ensure consistency and quality in contributions.
 
 
-__URL for code of conduct / community norms / community guildelines:__  [Community Guidelines](https://godotengine.org/code-of-conduct/)
+__URL for code of conduct / community norms / community guidelines:__  [Community Guidelines](https://godotengine.org/code-of-conduct/)
 
 __URL for instructions for users to download and install the package:__  [Binary Download](https://godotengine.org/download)
 
@@ -60,7 +60,7 @@ __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 __URL for instructions for how to install development environment:__  [Compiling From Source](https://docs.godotengine.org/en/latest/contributing/development/compiling/)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the download and installation instructions are straightforward, providing direct links to download the engine for various platforms. As you attempt to install, you may run into issues where you'll have to download depencies.
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the download and installation instructions are straightforward, providing direct links to download the engine for various platforms. As you attempt to install, you may run into issues where you'll have to download dependencies.
 
 
 __Number of contributors:__ 2,852 contributors
@@ -82,7 +82,7 @@ __Latest commit__
 
 - __who made that commit:__ [Thaddeus Crews](https://github.com/Repiteo)
 
-- __what type of work was commited?__ Fixing a bug with a rendering tool
+- __what type of work was committed?__ Fixing a bug with a rendering tool
 
 
 __Issues__
@@ -154,47 +154,46 @@ __Pull requests__
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
+Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Shay Butler
 
-Operating system: 
+Operating system: macOS, Apple M2 Max
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes. The installation was seamless. The system requirements for macOS are listed [HERE](https://godotengine.org/download/macos/)
 
-How long did the whole process take? 
+How long did the whole process take? The whole process took less than a minute.
 
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Godot has a dedicated "Good First Issue" label, clear contributing guidelines, and extensive documentation. However, some complex issues may be challenging for newcomers unfamiliar with game engines.
+
+
+
+__Do the maintainers respond helpfully to questions in issues?__ Yes, maintainers and the community actively engage with contributors, offering helpful responses and guidance.
+
+
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, the community fosters a welcoming environment across GitHub, forums, and chat platforms. A lot of contributors in the chat have taken to using reactions (👍, 👎, 🚀, 🎉, 👀, ❤️, 😄, 😕) to express their feelings about comments.
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do pull requests get reviewed?__ Yes, pull requests do get reviewed. Documentation for pull requests have been provided [HERE](https://docs.godotengine.org/en/latest/contributing/workflow/pr_review_guidelines.html)
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do maintainers thank people for their contributions?__ I have not seen any maintainers thank people for their contributions when issues are closed. I also can't find a general thank you page for contributors.
 
 
 
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Not necessarily. While knowledge of C++ and Godot's architecture is essential for core development, non-coding contributions are equally valuable. Contributors can assist with documentation, translation, bug reporting, UI/UX suggestions, and community support.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No special hardware is required beyond a standard development machine. However, contributors need a compatible development environment (like GCC/Clang for C++), and platform-specific dependencies may be needed for compiling Godot from source.
