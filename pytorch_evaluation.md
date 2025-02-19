@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  PyTorch
 
 
 ---
@@ -13,7 +13,7 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [PyTorch](https://pytorch.org/)
 
 
 __What is the purpose of the project:__ 
@@ -199,5 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
 
