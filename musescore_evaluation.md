@@ -75,82 +75,82 @@ each of them list the link to their latest commit__:
 1. [wschweer] (3518 commits) - [Add changes from mattmcclinch to fix regression tests for musicxml and gtp import and scripting.](https://github.com/musescore/MuseScore/commit/9efd3012424c8f3160325e8d79ffc9ea77c9dfdd)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 39,526 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/musescore/MuseScore/commit/af805828e83cc65f60d47845184c45c0f544c5e6)
 
-- __who made that commit:__ 
+- __who made that commit:__ grliszas14 and igorkorsukov
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ "Remove language assert"
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [3.1k Open Issues](https://github.com/musescore/MuseScore/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/musescore/MuseScore/issues/26601)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Feb. 19th, 2025, 1:16 pm
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [7,388 closed issues](https://github.com/musescore/MuseScore/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/musescore/MuseScore/issues/26573)
+    - __how many users discussed the issue:__ 5 people
+    - __when was the issue reported:__ Feb. 18, 2025
+    - __when was the issue closed:__ Feb. 19th, 2025
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ very active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/musescore/MuseScore/issues/13894)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/musescore/MuseScore/issues/25576)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 206 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ No, if you are not familliar with music and coding it may be difficult.
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 1
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ yes since it it just a broken link
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 195 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/musescore/MuseScore/pull/26596)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Feb. 19th, 2025
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/musescore/MuseScore/pull/8345)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ June 17th, 2021
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 15,672
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/musescore/MuseScore/pull/26591)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb. 18th, 2025
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb. 19th, 2025
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ It seems like it depends on the severity of the issues.
 
 
 ## Development Environment 
@@ -181,20 +181,20 @@ __Do the maintainers respond helpfully to questions in issues?__
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, they seem respectful.
 
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ Yes they do.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ Most of the time, yes.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ You may need knowledge of C++.
 
 
 
