@@ -111,13 +111,9 @@ __Latest commit__
 
 - __link to the commit:__ [Latest commit](https://github.com/microsoft/vscode/commit/94af5df750f19844e01311e1dd14b3f42441a857)
 
-- __who made that commit:__ 
+- __who made that commit:__ meganrogge
 
-meganrogge
-
-- __what type of work was commited?__ 
- 
- issue #241231 was fixed
+- __what type of work was commited?__ issue #241231 was fixed
 
 
 
