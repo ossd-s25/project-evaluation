@@ -20,19 +20,19 @@ __What is the purpose of the project:__
 The purpose of the project is to allow users to easily run Windows apps and games on macOS with Wine and Apple's Game Porting Toolkit, without having to deal with the command line interface or dealing with installing a Windows VM on macOS.
 
 __How easy was it to find information about contributing on the website?__ 
-It was slightly hard to 
+It was slightly hard to find the contributing information on the website. We had to go on the GitHub link from the main website, and then find the actual `CONTRIBUTING.md` file amongst the file tree in the GitHub repo (though fortunately, it was in the root directory).
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://github.com/Whisky-App/Whisky/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/Whisky-App/Whisky)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/Whisky-App/Whisky/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ None, although [Discord here](https://discord.gg/CsqAfs9CnM)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Discord](https://discord.gg/CsqAfs9CnM)
 
-__Other communication channels:__ 
+__Other communication channels:__ No
 
 
 ---
