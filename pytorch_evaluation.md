@@ -101,7 +101,7 @@ __Issues__
     - __url for the last issue closed:__ [[Triton upstream] [Inductor] [ROCm] LLVM failure in some gemm kernels #147377](https://github.com/pytorch/pytorch/issues/147377)
     - __how many users discussed the issue:__ 3 people
     - __when was the issue reported:__ Feb 18, 2025
-    - __when was the issue closed:__ Feb 19, 2025, 9 am ET
+    - __when was the issue closed:__ Feb 19, 2025, ~9 am ET
 
 - __how active is the discussion on the issues:__ 
 
@@ -131,28 +131,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 1,117 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [add the torch.float8_e8m0fnu dtype to PyTorch #147466](https://github.com/pytorch/pytorch/pull/147466)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ May 6, 2021
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Deprecate torch.svd and change svd -> linalg_svd #57772](https://github.com/pytorch/pytorch/pull/57772)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Sep 2, 2016
 
 - __how many closed pull requests are there:__ 
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [not for land: just testing #147467](https://github.com/pytorch/pytorch/pull/147467)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__ Feb 19, 2025, 1:09 pm ET
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb 19, 2025, 1:11 pm ET
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes (to solvable issues).
 
 
 ## Development Environment 
