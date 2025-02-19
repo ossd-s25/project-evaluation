@@ -90,7 +90,7 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2,147 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
@@ -101,15 +101,20 @@ each of them list the link to their latest commit__:
 3. [Tyriar] (10,759 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/9e10294e18b2f53f144ca3757048d6f8a1ce2350)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 129,962 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/microsoft/vscode/commit/94af5df750f19844e01311e1dd14b3f42441a857)
 
 - __who made that commit:__ 
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+meganrogge
+
+- __what type of work was commited?__ 
+ 
+ issue #241231 was fixed
+
 
 
 __Issues__
