@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Musescore
 
 
 ---
@@ -13,63 +13,37 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [VScode](https://code.visualstudio.com/)
+__Project website:__ [Musescore](https://musescore.org/en)
 
 
-__What is the purpose of the project:__ 
-
-According to VScode's website, the project is supposed to be a "delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas." 
+__What is the purpose of the project:__ Musescore is an open source music notation software.
 
 
-__How easy was it to find information about contributing on the website?__ 
-The information was found by scrolling to the bottom of the website, clicking a link to the project's github repository, and then the CONTRIBUTING.md was immediately visible.
+__How easy was it to find information about contributing on the website?__: very easy
 
-__Contributing instructions:__ [main CONTRIBUTING.MD](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](https://github.com/microsoft/vscode)
+__Contributing instructions:__ [Here](https://github.com/musescore/MuseScore/wiki/Contributing) 
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/microsoft/vscode/issues)
+__URL for the code repository:__ [Code repository](https://github.com/musescore/MuseScore)
 
-__Mailing list:__ Not found
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/musescore/MuseScore/wiki/Reporting-bugs-and-issues)
 
-__Chat channel:__ Not found
+__Mailing list:__ [Mailing list](N/A)
 
-__Other communication channels:__ 
+__Chat channel:__ [Chat channel](https://discord.gg/HwHhXEbJ4r)
 
-[StackOverflow](https://stackoverflow.com/questions/tagged/vscode)
+__Other communication channels:__ [Musescore Forum] (https://musescore.org/forum)
+
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [MIT License](https://github.com/microsoft/vscode/blob/main/LICENSE.txt)
+__License:__ [License](https://github.com/musescore/MuseScore/blob/master/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT License
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language(s):__ 
-* C++ 
-* C# 
-* CSS 
-* Dart 
-* Dockerfile 
-* F# 
-* Go 
-* HTML 
-* Java 
-* JavaScript 
-* JSON 
-* Julia 
-* Less 
-* Markdown 
-* PHP 
-* PowerShell 
-* Python 
-* R 
-* Ruby 
-* Rust 
-* SCSS 
-* T-SQL 
-* TypeScript
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
@@ -225,5 +199,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
 
