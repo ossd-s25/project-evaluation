@@ -76,7 +76,7 @@ __URL for contributing instructions:__ [Contributing instructions](insert link h
 __Are the contributing instructions clear?__ 
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://opensource.microsoft.com/codeofconduct/)
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
