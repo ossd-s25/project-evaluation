@@ -158,6 +158,17 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
+Name: Shamaamah Ahmad
+
+Operating system: macOS Monterey Version 12.7.1
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it): No, my computer ran out of storage.
+
+How long did the whole process take?: N/A
+
+--
+
 Name: 
 
 Operating system: 
