@@ -96,9 +96,9 @@ __Number of contributors:__ xxx contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [bpasero] (13,382 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/0fe195613ed9901f669cd0f799fe807f0189d029)
+2. [jrieken] (11,973 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/94fcd5981a9de1f6309dd3a21dc8b5110f634ce9)
+3. [Tyriar] (10,759 commits) - [Their Latest Commit](https://github.com/microsoft/vscode/commit/9e10294e18b2f53f144ca3757048d6f8a1ce2350)
 
 
 __Number of commits:__ xxxx commits
