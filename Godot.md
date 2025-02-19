@@ -128,28 +128,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 3,322 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/godotengine/godot/pull/103044)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Last Pull Request created](https://github.com/godotengine/godot/pull/103044) 2/19/2025 approximately 12:30pm
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/godotengine/godot/pull/29268)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ 5/28/2019
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 43,520
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/godotengine/godot/pull/7)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 17 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  2/10/2014
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 10/7/2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ The response time is arbitrary.
 
 
 ## Development Environment 
@@ -198,4 +198,3 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
