@@ -172,12 +172,12 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__This is beginner friendly for those who are experienced with both C++ and well versed in music however the installation process is extreme for developers.
+__How friendly is this project for beginner contributors?__ This is beginner friendly for those who are experienced with both C++ and well versed in music however the installation process is extreme for developers.
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes, there seems like a large amount of responses from maintainers.
 
 
 
