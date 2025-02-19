@@ -160,14 +160,21 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+- Name: 
 
-Operating system: 
+- Operating system: 
 
-Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+- Was the installation successful? (if not, explain what went wrong and what you did to try to remedy it)
 
-How long did the whole process take? 
+- How long did the whole process take? 
+
+
+| Name | Operating system | Was the installation successful? (if not, explain what went wrong and what you did to try to remedy it) | How long did the whole process take? | 
+|:--:|:--:|:--:|:--:|
+| Jack Tinker | / | / | / |
+| Yufeng Xu | MacOS | Successful | ~9 minutes |
+| Harry Yang | / | / | / |
+
 
 
 ---
