@@ -28,24 +28,48 @@ __Contributing instructions:__ [main CONTRIBUTING.MD](https://github.com/microso
 
 __URL for the code repository:__ [Code repository](https://github.com/microsoft/vscode)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/microsoft/vscode/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ Not found
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ Not found
 
 __Other communication channels:__ 
 
+[StackOverflow](https://stackoverflow.com/questions/tagged/vscode)
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [MIT License](https://github.com/microsoft/vscode/blob/main/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT License
 
 __Programming Language(s):__ 
+* C++ 
+* C# 
+* CSS 
+* Dart 
+* Dockerfile 
+* F# 
+* Go 
+* HTML 
+* Java 
+* JavaScript 
+* JSON 
+* Julia 
+* Less 
+* Markdown 
+* PHP 
+* PowerShell 
+* Python 
+* R 
+* Ruby 
+* Rust 
+* SCSS 
+* T-SQL 
+* TypeScript
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
