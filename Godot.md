@@ -154,47 +154,46 @@ __Pull requests__
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
+Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Shay Butler
 
-Operating system: 
+Operating system: macOS, Apple M2 Max
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes. The installation was seamless. The system requirements for macOS are listed [HERE](https://godotengine.org/download/macos/)
 
-How long did the whole process take? 
+How long did the whole process take? The whole process took less than a minute.
 
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Godot has a dedicated "Good First Issue" label, clear contributing guidelines, and extensive documentation. However, some complex issues may be challenging for newcomers unfamiliar with game engines.
+
+
+
+__Do the maintainers respond helpfully to questions in issues?__ Yes, maintainers and the community actively engage with contributors, offering helpful responses and guidance.
+
+
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, the community fosters a welcoming environment across GitHub, forums, and chat platforms. A lot contributors in the chat have taken to using reactions (👍, 👎, 🚀, 🎉, 👀, ❤️, 😄, 😕) to express their feelings about comments.
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do pull requests get reviewed?__ Yes, pull requests do get reviewed. Documentation for pull requests have been provided [HERE](https://docs.godotengine.org/en/latest/contributing/workflow/pr_review_guidelines.html)
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do maintainers thank people for their contributions?__ I have not seen any maintainers thank people for their contributions when issues are closed. I also can't find a general thank you page for contributors.
 
 
 
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Not necessarily. While knowledge of C++ and Godot's architecture is essential for core development, non-coding contributions are equally valuable. Contributors can assist with documentation, translation, bug reporting, UI/UX suggestions, and community support.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No special hardware is required beyond a standard development machine. However, contributors need a compatible development environment (like GCC/Clang for C++), and platform-specific dependencies may be needed for compiling Godot from source.
