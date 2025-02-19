@@ -52,16 +52,16 @@ __Are the contributing instructions clear?__ They are extremely clear and offer 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/musescore/MuseScore/blob/master/CODE_OF_CONDUCT.md)
 
-__URL for instructions for users to download and install the package:__  [here](https://github.com/musescore/MuseScore/wiki/CodeStructure). 
+__URL for instructions for users to download and install the package:__  [here](https://musescore.org/en/handbook/developers-handbook). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are easy to follow.
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are easy to follow but there is a lot to install.
 
 
 __URL for instructions for how to install development environment:__ [here](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__Yes, the instructions are clear.
+__Are these instruction clear? Do you think they would be easy to follow?__Yes, the instructions are clear however there are a lot of required installations that may be too much for a beginner.
 
 
 __Number of contributors:__ 389 contributors
@@ -172,7 +172,7 @@ How long did the whole process take?
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__This is beginner friendly for those who are experienced with both C++ and well versed in music however the installation process is extreme for developers.
 
 
 
@@ -200,3 +200,18 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
+-__[Debug Version of Musescore](https://musescore.org/en/developers-handbook/how-use-debug-version-musescore)
+
+-__[Plugin](https://musescore.org/en/handbook/developers-handbook#plugindev)
+
+-__[Soundfont](https://musescore.org/en/handbook/developers-handbook#sfdev)
+
+-__[CMake](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.3_CMake)
+
+-__[QT](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.4_Qt)
+
+-__[JACK](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.5_JACK)
+
+-__[ZIP](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.6_7-Zip)
+
+-__[Additional Dependecies](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.7_Additional_dependencies)
