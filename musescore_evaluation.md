@@ -61,7 +61,7 @@ __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 __URL for instructions for how to install development environment:__ [here](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__Yes, the instructions are clear however there are a lot of required installations that may be too much for a beginner.
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, the instructions are clear however there are a lot of required installations that may be too much for a beginner.
 
 
 __Number of contributors:__ 389 contributors
@@ -169,6 +169,15 @@ How long did the whole process take? If I continued I believe the process would 
 
 
 ---
+
+Name: Shamaamah Ahmad
+
+Operating system: macOS Monterey Version 12.7.1
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it): No, my computer ran out of storage.
+
+How long did the whole process take?: N/A
 
 
 ## Summary assessment
