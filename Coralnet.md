@@ -164,9 +164,9 @@ Name: Daniel Brito
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? 
+How long did the whole process take? It took me about a half hour.
 
 -----------
 
@@ -177,18 +177,18 @@ Operating system: MacOS
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? It took about twenty minutes
+How long did the whole process take? It took about twenty minutes.
 
 ------------
 
-Name: 
+Name: Ajok Thon
 
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? 
+How long did the whole process take? A half hour.
 
 ---
 
