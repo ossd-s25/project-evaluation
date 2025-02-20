@@ -90,11 +90,7 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-<<<<<<< HEAD
 __Number of contributors:__ 2147 contributors
-=======
-__Number of contributors:__ 2,147 contributors
->>>>>>> b16d676cef13ef32e2d8f1ff67d707b2fb8f0a66
 
 
 __Usernames of three contributors with largest number of commits; for
