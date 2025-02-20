@@ -90,11 +90,7 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instruction clear? Do you think they would be easy to follow?__
 These instructions are clear, and contain the exact commands that need to be run to download each necessary part of the development environment.
 
-<<<<<<< HEAD
 __Number of contributors:__ 2147 contributors
-=======
-__Number of contributors:__ 2,147 contributors
->>>>>>> b16d676cef13ef32e2d8f1ff67d707b2fb8f0a66
 
 
 __Usernames of three contributors with largest number of commits; for
@@ -119,42 +115,42 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ [8502 Open Issues](https://github.com/microsoft/vscode/issues)
+- __how many open issues are there:__ [8505 Open Issues](https://github.com/microsoft/vscode/issues)
 
-    - __url for the last issue created:__ [Last issue created](https://github.com/microsoft/vscode/issues/241235)
+    - __url for the last issue created:__ [Last issue created](https://github.com/microsoft/vscode/issues/241270)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 3 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Feb 19th, 2025
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [181,716 closed issues](https://github.com/microsoft/vscode/issues?q=is%3Aissue%20state%3Aclosed%20sort%3Acreated-desc)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/microsoft/vscode/issues/241260)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ Feb 19th, 2025
+    - __when was the issue closed:__ Feb 19th, 2025
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ very active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/microsoft/vscode/issues/241226)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/microsoft/vscode/issues/240654)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 0 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Not really
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 0
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ N/A
 
 
 

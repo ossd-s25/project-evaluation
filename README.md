@@ -12,7 +12,7 @@ Answer all the questions in the template based on the information on the project
 List of projects for this activity:
 - [pygame](https://www.pygame.org/)  Chuqiao, Johnny, Chardin
 - [Ghostty](https://ghostty.org/) David M., Stella, Jacob, Haocheng
-- [Currency Freaks](https://currencyfreaks.com/)  Shamaamah, Vasily, Brizen
+- [Musescore](https://musescore.org/en)  Shamaamah, Vasily, Brizen
 - [Godot](https://godotengine.org/)  Justin, Lily, Shay   
 - [CoralNet](https://coralnet.ucsd.edu/) Daniel B., Ajok, Andrea
 - [VSCode](https://code.visualstudio.com/) David Y., Polina, Lulu 
