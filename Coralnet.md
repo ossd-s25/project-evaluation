@@ -33,7 +33,7 @@ __Mailing list:__ [Mailing list](https://coralnet.ucsd.edu/blog/)
 
 __Chat channel:__ [Chat channel](https://groups.google.com/g/coralnet-users)
 
-__Other communication channels:__ 
+__Other communication channels:__ N/A
 
 
 ---
