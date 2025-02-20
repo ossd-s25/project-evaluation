@@ -170,14 +170,16 @@ How long did the whole process take?
 
 -----------
 
-Name: 
+Name: Ajok Thon
 
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it): 
+-The installation portion was not successful for me. After downloading PostgresSQL, my mac had issues 
 
-How long did the whole process take? 
+How long did the whole process take?:
+-While I was not able to complete the whole process, I estimate it would take approximatetly an hour for a beginner to get set up
 
 ------------
 
