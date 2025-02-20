@@ -200,18 +200,18 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
-- __[Debug Version of Musescore](https://musescore.org/en/developers-handbook/how-use-debug-version-musescore)
+- [Debug Version of Musescore](https://musescore.org/en/developers-handbook/how-use-debug-version-musescore)
 
-- __[Plugin](https://musescore.org/en/handbook/developers-handbook#plugindev)
+- [Plugin](https://musescore.org/en/handbook/developers-handbook#plugindev)
 
-- __[Soundfont](https://musescore.org/en/handbook/developers-handbook#sfdev)
+- [Soundfont](https://musescore.org/en/handbook/developers-handbook#sfdev)
 
-- __[CMake](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.3_CMake)
+- [CMake](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.3_CMake)
 
-- __[QT](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.4_Qt)
+- [QT](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.4_Qt)
 
-- __[JACK](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.5_JACK)
+- [JACK](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.5_JACK)
 
-- __[ZIP](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.6_7-Zip)
+- [ZIP](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.6_7-Zip)
 
-- __[Additional Dependencies](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.7_Additional_dependencies)
+- [Additional Dependencies](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1.7_Additional_dependencies)
