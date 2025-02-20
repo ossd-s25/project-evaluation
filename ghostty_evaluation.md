@@ -184,6 +184,17 @@ How long did the whole process take?
 
 N/A
 
+Name: Stella
+
+Operating system: Windows
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) No
+
+How long did the whole process take? 
+
+N/A
+
 ---
 
 
@@ -214,3 +225,4 @@ Yes. The project is mainly written in Zig, a relatively new language, and requir
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
+Only Linux and Windows are supported.

@@ -33,7 +33,7 @@ __Mailing list:__ [Mailing list](https://coralnet.ucsd.edu/blog/)
 
 __Chat channel:__ [Chat channel](https://groups.google.com/g/coralnet-users)
 
-__Other communication channels:__ 
+__Other communication channels:__ N/A
 
 
 ---
@@ -164,13 +164,17 @@ Name: Daniel Brito
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? 
+How long did the whole process take? It took me about a half hour.
 
 -----------
 
+<<<<<<< HEAD
 Name: Ajok Thon
+=======
+Name: Andrea Tang
+>>>>>>> d893595ba2e0b5950a9b4e023ef825d8966243f1
 
 Operating system: MacOS
 
@@ -179,18 +183,21 @@ what you did to try to remedy it):
 -The installation portion was not successful for me. After downloading PostgresSQL, my mac had issues 
 
 How long did the whole process take?:
--While I was not able to complete the whole process, I estimate it would take approximatetly an hour for a beginner to get set up
+what you did to try to remedy it Yes the installation was successful.
+
+How long did the whole process take? It took about twenty minutes.
 
 ------------
 
-Name: 
+Name: Ajok Thon
 
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? 
+
+How long did the whole process take? A half hour.
 
 ---
 
