@@ -201,30 +201,31 @@ How long did the whole process take?
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
+The project is not beginner friendly. While there are clear instructions in ways to contribute, there are no issues designated to be beginner/starter friendly. The project's issues are also opened and closed very actively, with over 5k open issues currently. VScode is too robust and active for a beginner to easily approach.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
-
+The maintainers do respond helpfully to questions in issues. The majority of questions in issues are responded to, and those that arent are assigned a triage needed label. These include issues opened within a few hours, and so the maintainers are very active. 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+People are polite in the issues, but most people not necessarily overly friendly. Responses are usually pretty dry and concise, but this varies greatly on the replying maintainer. 
 
 
 __Do pull requests get reviewed?__
 
-
+Pull requests are very often reviewed. In February alone the pull requests are 71% complete, with 310 open and 793 closed. Pull requests are reviewed quickly and may be merged within hours, with the last one being merged less than an hour ago.
 
 __Do maintainers thank people for their contributions?__
 
-
+Maintainers do not publicly thank people in the closed pull requests. But the CONTRIBUTING.md does have lines thanking interested contributors.
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+The skills required to contribute to the project are tied to general cs knowledge and potentially familiarity with the IDE, but does not more background knowledge.
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
+Computers need to be able to run Git, Node.JS on x64 or ARM64 version >=20.x, Python, and a C/C++ compiler tool chain the computer's platform. However, these requirements are generally met by most modern computers and are not special.
 
