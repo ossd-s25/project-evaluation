@@ -87,7 +87,7 @@ __Number of contributors:__ 313 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [illume] (1755 commits) - [Sep 29, 2024: Merge pull request [#4352](https://github.com/pygame/pygame/pull/4352) from pygame/cython_only](https://github.com/pygame/pygame/commit/79807da84c9bacf8df5a177763e14c924e3b15e2)
+1. [illume] (1755 commits) - [Sep 29, 2024: Merge pull request [#4352](https://github.com/pygame/pygame/pull/4352) from pygame/cython_only](https://github.com/pygame/pygame/commit/79807da84c9bacf8df5a177763e14c924e3b15e2)  
 2. [llindstrom] (865 commits) - [Oct 13, 2023: fix black formatter concerns over code changes in commit #554904512](https://github.com/pygame/pygame/commit/08e3c50d725d9508ab499abf1d1083d8c6197194)
 3. [PeterShinners] (553 commits) - [Jun 11, 2006: Compile fixes for 64bit on Fedora from Chris Stone](https://github.com/pygame/pygame/commit/9f4547e5e394ed8b8e31b978b0ae613f997595f8)
 
