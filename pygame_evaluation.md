@@ -192,11 +192,11 @@ How long did the whole process take?
 10 min  
 
 Name: Chuqiao Huang
-Operating system: MacOS 
+Operating system: MacOS
 Was the installation successful? (if not, explain what went wrong and
-what you did to try to remedy it)\  
-Yes, it was successful. I updated my python version and use python3 and pip3 command instead of the exact command shown in the installation instructions. 
-How long did the whole process take?  
+what you did to try to remedy it)\
+Yes, it was successful. I updated my python version and use python3 and pip3 command instead of the exact command shown in the installation instructions.
+How long did the whole process take?
 5 min  
 
 ---
