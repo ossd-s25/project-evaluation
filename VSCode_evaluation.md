@@ -205,12 +205,12 @@ How long did the whole process take?
 
 Name: David Yu
 
-Operating system: 
+Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) - Yes, I already had VScode installed
 
-How long did the whole process take? 
+How long did the whole process take? - Around 1 minute
 
 
 ---
