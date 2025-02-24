@@ -170,20 +170,16 @@ How long did the whole process take? It took me about a half hour.
 
 -----------
 
-<<<<<<< HEAD
-Name: Ajok Thon
+
+
 =======
 Name: Andrea Tang
->>>>>>> d893595ba2e0b5950a9b4e023ef825d8966243f1
 
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it): 
--The installation portion was not successful for me. After downloading PostgresSQL, my mac had issues 
-
-How long did the whole process take?:
-what you did to try to remedy it Yes the installation was successful.
+Yes the installation was successful.
 
 How long did the whole process take? It took about twenty minutes.
 
@@ -194,8 +190,8 @@ Name: Ajok Thon
 Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it) Yes the installation was successful.
-
+what you did to try to remedy it) 
+-The installation portion was not successful for me. After downloading PostgresSQL, my mac had issues.
 
 How long did the whole process take? A half hour.
 
