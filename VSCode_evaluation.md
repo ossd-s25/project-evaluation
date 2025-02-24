@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  VSCode
 
 
 ---
@@ -156,28 +156,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 502 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/microsoft/vscode/pull/241663)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 2/23/2025, 11:36PM (EST)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/microsoft/vscode/pull/11)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ 11/19/2015
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 36,462 closed pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/microsoft/vscode/pull/241663)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  2/23/2025, 11:36PM (EST), so it's the very last one that was open
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 02/24/2025 00:04AM (EST)
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ the last closed request was open for 30 minutes only, so I would assume yes!
 
 
 ## Development Environment 
@@ -185,7 +185,25 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Polina Belova
+
+Operating system: macOS
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it) - I already have VSCode insatlled on my device and I remeber it being an exteremely starightforward process!
+
+How long did the whole process take? - less than 2 minutes
+
+Name: Lulu Zhu
+
+Operating system:
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it)
+
+How long did the whole process take? 
+
+Name: David Yu
 
 Operating system: 
 
