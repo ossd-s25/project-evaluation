@@ -157,15 +157,16 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Justin Chen
 
-Operating system: 
+Operating system: Windows (11)
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it): Yes, it was successful. I installed the desktop integration version using a prebuilt .exe. This is th editor that functions as the Godot project manager for creating, importing, and opening existing Godot projects. Then I tried installing the build source to compile Godot myself (for modifying code and build). Once I cloned the repository, I needed to install SCons, which is an open-source software construction tool (easier and faster to build the project software). I did run into a small issue where I couldn't install SCons, but that was because I did not have Python installed. Once it was, I tried again to setup the SCons build system to compile Godot for Windows. BUT, ran into another issue... I couldn't find the executable to open the build. Turns out I didn't hav ea valid compiler and so the SCons build was unsuccessful. I had to install Microsoft Visual Studio build tools, desktop development package for C++, and Windows SDK. And then finally I try running the SCons build again in the Godot directory to compile Godot.
 
 How long did the whole process take? 
 
+This took about 1.5 hours.
 
 ---
 
@@ -195,7 +196,7 @@ Yes they do. They also provide encouragements to fellow contributors to boost mo
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-Yes. Knoweledge of the engine and C++. Also, developing good documentation and discussion skills is also vital to resolving issues efficiently (especially when multiple contributors are working on the same issue).
+Yes. Knoweledge of the engine, Godot's own built-in scripting language called GDScript, C# (in .NET version as alternative to GDScript), and C++. Also, developing good documentation and discussion skills is also vital to resolving issues efficiently (especially when multiple contributors are working on the same issue).
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
