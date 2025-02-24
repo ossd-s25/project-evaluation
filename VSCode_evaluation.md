@@ -196,12 +196,12 @@ How long did the whole process take? - less than 2 minutes
 
 Name: Lulu Zhu
 
-Operating system:
+Operating system: macOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) - Yes. I already have VSCode installed in my laptop that I use it very frequently.
 
-How long did the whole process take? 
+How long did the whole process take? - 1 to 2 minutes.
 
 Name: David Yu
 
