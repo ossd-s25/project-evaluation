@@ -173,28 +173,30 @@ How long did the whole process take?
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
+This project is not very beginner friendly. It has quite a bit of documentation and technical jargon. This project definetly requires a lot of pre-existing knowledge of the game engine in order to get adjusted to contrbuting.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
-
+Yes. The responses to issue requests are generally quite respectful and detailed with attached hyperlinks and images for reference to the issues.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+Yes, they are. Upon examining some discussion in the forum, the chat is filled with people always looking to help out. The responses are always useful and encourages further discussions. If anyone makes a mistake (e.g. not following style or code guidelines), a gentle reminder is always given to followi t.
 
 
 __Do pull requests get reviewed?__
 
-
+Yes, there are tens of thousands of pull requests that have already been tagged, reviewed, and closed. There is about another ten thousand pull requests are are currently being discussed, reviewed, and remain open.
 
 __Do maintainers thank people for their contributions?__
 
-
+Yes they do. They also provide encouragements to fellow contributors to boost morale. When multiple people are working on the same issue, lots of evidence and solutions are provided and thoroughly tested by contributors. The issues develop sto fruition on their own, with people acknolwedging when vital information, fixes, and progress are made. 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+Yes. Knoweledge of the engine and C++. Also, developing good documentation and discussion skills is also vital to resolving issues efficiently (especially when multiple contributors are working on the same issue).
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+Yes. The development device must be Vulkan 1.0 hardware compatable along with OpenGl 3.3 / OpenGL ES 3.0 compatable hardware. There are also additional requirements for the .NET version.
