@@ -45,12 +45,12 @@ __License:__ [License](https://github.com/huggingface/transformers/blob/main/LIC
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__  
 Yes. Huggingface Transformers uses Apache License 2.0, which is OSI approved.
 
-__Programming Language(s):__ 
+__Programming Language(s):__  
 Python is the dominant PL in this project (99.4\%), while the rest consists of CUDA, Dockerfile, Shell, etc.
 
 __URL for contributing instructions:__ [Contributing instructions](https://github.com/huggingface/transformers/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__  
+__Are the contributing instructions clear?__   
 Yes, it is very clear, with detailed instructions for different types of contributions.
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/huggingface/transformers/blob/main/CODE_OF_CONDUCT.md)
@@ -58,7 +58,7 @@ __URL for code of conduct / community norms / community guildelines:__ [Communit
 __URL for instructions for users to download and install the package:__  [Installation](https://github.com/huggingface/transformers?tab=readme-ov-file#installation) 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__   
+__Are these instructions clear? Do you think they would be easy to follow?__    
 Yes, the instructions are clear, including guides for installation on different OSes with pip/conda.
 
 __URL for instructions for how to install development environment:__ [Create a Pull Request](https://github.com/huggingface/transformers/blob/main/CONTRIBUTING.md#create-a-pull-request)
@@ -85,7 +85,8 @@ __Latest commit__
 
 - __who made that commit:__ ydshieh
 
-- __what type of work was commited?__ (implementation of a new feature: notify users of new model release)
+- __what type of work was commited?__ 
+implementation of a new feature: notify users of new model release
 
 
 __Issues__
@@ -116,7 +117,7 @@ __Issues__
 
     - __how many of such issues are there?__  [Good First Issue](https://github.com/huggingface/transformers/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Good%20First%20Issue%22): 182 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__  
     I will not say they are friendly to beginners who are unfamiliar with the codebases of deep learning models. However, they are friendly to college students interested in AI and have hands-on experience.
 
 
