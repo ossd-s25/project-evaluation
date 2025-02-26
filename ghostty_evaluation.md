@@ -201,7 +201,8 @@ N/A
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-This project is easy to contribute to if you have the required domain knowledge, but it is not very easy for complete beginners.
+~~This project is easy to contribute to if you have the required domain knowledge, but it is not very easy for complete beginners.~~
+I'm revising our assessment of Ghostty after taking a closer look and being able to merge a pull request. While the fact that Ghostty is written in Zig may seem intimidating at first, it helps that Zig's syntax is relatively minimal and I find it very readable. Additionally, because Ghostty had its 1.0 release recently (late December of 2024), there are many small, contained bugs that are easy to fix once you figure out where to look. Ghostty's codebase is well organized, so navigating it isn't too difficult either.
 
 __Do the maintainers respond helpfully to questions in issues?__
 
