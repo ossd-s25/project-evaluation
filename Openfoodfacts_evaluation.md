@@ -15,15 +15,15 @@ Open Food Facts is a collaborative database of food products that provides detai
 __How easy was it to find information about contributing on the website?__  
 The information about contributing is relatively easy to find. The website and repository provide clear instructions on how to participate, whether by adding products, improving data, translating content, or contributing to the codebase.  
 
-__Contributing instructions:__ [Here](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/CONTRIBUTING.md)  
+__Contributing instructions:__ [Here](https://world.openfoodfacts.org/contribute)  
 
-__URL for the code repository:__ [Code repository](https://github.com/openfoodfacts/openfoodfacts-server)  
+__URL for the code repository:__ Not explicitly mentioned on the website  
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/openfoodfacts/openfoodfacts-server/issues)  
+__Bug/Issue tracker link:__ Not explicitly mentioned on the website
 
 __Mailing list:__ Not explicitly mentioned on the website.  
 
-__Chat channel:__ [Slack](https://openfoodfacts.slack.com/)  
+__Chat channel:__ [Slack](https://openfoodfacts.slack.com/) 
 
 __Other communication channels:__  
 - [Weekly meetings on Google Meet](https://meet.google.com/nnw-qswu-hza)  
