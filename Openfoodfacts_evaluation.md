@@ -59,10 +59,10 @@ __Number of contributors:__ 214 contributors
 
 __Usernames of three contributors with largest number of commits; for each of them list the link to their latest commit__:
 
-1. teolemon - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/5f013705d07578b8106f088d93811d90ca2f5e27)
-2. stephane- [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/2a81308e0715d242d73f95db43f188ed3cfa0cc1)
+1. teolemon(20,037 commits) - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/5f013705d07578b8106f088d93811d90ca2f5e27)
+2. stephane(7495 commits)- [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/2a81308e0715d242d73f95db43f188ed3cfa0cc1)
 
-3. [aleene] - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/575e218587ebc481d0c4d11a4a5cf400caf25f27)
+3. [aleene](2979 commits) - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-server/commit/575e218587ebc481d0c4d11a4a5cf400caf25f27)
 
 __Number of commits:__ 34355 commits
 
@@ -133,7 +133,7 @@ __Pull requests__
     
     - __when was the pull request made:__  2025.2.25
     
-    - __when was the pull request closed:__ 2025.2。25
+    - __when was the pull request closed:__ 2025.2.25
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
