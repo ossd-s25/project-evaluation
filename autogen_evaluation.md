@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  AutoGen
 
 
 ---
@@ -13,66 +13,65 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://microsoft.github.io/autogen/stable/index.html)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ AutoGen is a framework for creating multi-agent AI applications.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ Contributing information is buried into a [sub article](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/index.html). However the github link is easily accessible and links to the same CONTRIBUTING.md.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://github.com/microsoft/autogen/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/microsoft/autogen)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/microsoft/autogen/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ Not found
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ Not found
 
-__Other communication channels:__ 
+__Other communication channels:__ Discord and [Twitter](https://twitter.com/pyautogen)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/microsoft/autogen/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ https://web.archive.org/web/20230202005829/https://creativecommons.org/licenses/by/4.0/
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python, C#, Typescript
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/microsoft/autogen/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/microsoft/autogen/blob/main/CONTRIBUTING.md)
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/microsoft/autogen/blob/main/README.md). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, the instructions are clear. Installation for using the project should be easy as its just a pip command.
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__URL for instructions for how to install development environment:__ [here](https://github.com/microsoft/autogen/blob/main/python/README.md#setup)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instruction clear? Do you think they would be easy to follow?__ The instructions are less clear than the ones in the CONTRIBUTING.MD, but still relatively clear.
+
+__Number of contributors:__ 459 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Sonichi] (665 commits) - [Their Latest Commit](https://github.com/microsoft/autogen/commit/ff311eec6c652eeb508b70765e4f69ed64308aa3)
+1. [jackgerrits] (563 commits) - [Their Latest Commit](https://github.com/microsoft/autogen/commit/6b687199394cf152b5faab738c328e2f926fcd11)
+1. [ekzhu] (556 commits) - [Their Latest Commit](https://github.com/microsoft/autogen/commit/c302b5408a3a9816da060ea338af939e7d2a62e4)
 
 
 __Number of commits:__ xxxx commits
