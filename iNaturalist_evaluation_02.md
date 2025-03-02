@@ -28,7 +28,7 @@ __URL for the code repository:__ [Code repository](https://github.com/orgs/inatu
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/inaturalist/inaturalist/issues)
 
-__Mailing list:__ [Mailing list](https://help.inaturalist.org/en/support/solutions/articles/151000169912-how-do-i-contact-inaturalist-)
+__Mailing list:__ [Mailing list](https://www.inaturalist.org/blog)
 
 __Chat channel:__ [Chat channel](https://discord.com/invite/C57VKVU)
 
