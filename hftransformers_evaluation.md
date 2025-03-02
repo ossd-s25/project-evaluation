@@ -170,31 +170,32 @@ for this project. Complete the following for each member:
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__  
+Not so friendly, because some knowledge in the implementation of Machine Learning models is a must for contributing to this projects.
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
+__Do the maintainers respond helpfully to questions in issues?__  
+Yes they do. Most issues have very helpful and detailed responses. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+I believe the people are quite friendly, because the issues from beginners are resolved with patience and detailed explanations.
 
 
 
 __Do pull requests get reviewed?__
-
+Yes they do.
 
 
 __Do maintainers thank people for their contributions?__
+Sometimes they do (if the PRs are helpful and get merged, or, the responses are issues are useful).
 
 
+__Are there special skills required to contribute to the project? If so, what are they?__   
+The 2 skills required to contribute to the project are: Python programming and knowledge in ML implementation. Some knowledge in GPU acceleration is preferred.
 
-__Are there special skills required to contribute to the project? If so, what are they?__
 
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__  
+Preferrably the contributors should have access to some computing resources (i.e., GPUs with adequate VRAM) because they need to test their contributions, which often involves running a large ML model. 
 

@@ -176,29 +176,30 @@ for this project. Complete the following for each member:
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+I believe it's friendly because it is a tutorial website and mostly made up of docs. Doc contributions are naturally easier than code contributions.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes they do, with a lot of friendly discussion.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes they are (on the forum). Even beginner-level issues are responded with lots of discussions.
 
 
 
 __Do pull requests get reviewed?__
-
+Yes they do (on a very timely manner).
 
 
 __Do maintainers thank people for their contributions?__
-
+Seldomly (but personally, I feel timely and detailed responses to contributions are enough. Few people express gratitude to contributors deliberately).
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+I believe some web development skills are preferred when contributing to the project. However, if one contributes to the docs only, no special skills are required.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+Some dependencies should be installed on your local machine before starting to develop the project: node, pnpm, and mongodb. I did not install these packages successfully after spending half an hour, but I believe the problems can be resolved if more efforts are put into it.
