@@ -167,7 +167,6 @@ what you did to try to remedy it)
 Yes. Took me a while when setting up the docker.
 
 How long did the whole process take? 
-
 30 mins.
 ---
 
