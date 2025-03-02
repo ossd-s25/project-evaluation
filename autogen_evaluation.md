@@ -74,97 +74,97 @@ each of them list the link to their latest commit__:
 1. [ekzhu] (556 commits) - [Their Latest Commit](https://github.com/microsoft/autogen/commit/c302b5408a3a9816da060ea338af939e7d2a62e4)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 3360 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/microsoft/autogen/commit/b8b13935c9449809578d67387ba6ecd63634ebea)
 
-- __who made that commit:__ 
+- __who made that commit:__ victordibia
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ implementation of feature
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [473 Open Issues](https://github.com/microsoft/autogen/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/microsoft/autogen/issues/5775)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 user
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 3/1/25 
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [2042 closed issues](https://github.com/microsoft/autogen/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/microsoft/autogen/issues/5750)
+    - __how many users discussed the issue:__ 3 people
+    - __when was the issue reported:__ 2/28/25
+    - __when was the issue closed:__ 3/1/25
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/microsoft/autogen/issues/5732)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/microsoft/autogen/issues/5666)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 6 open issues. 73 closed issues
+    Yes
+    - __look at a few of them, do they look beginner friendly?__ Yes, some are documentation related. And others do not require too much prior knowledge of the project
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
+
+    - __how many of such issues are there?__ 43 open issues. 275 closed issues.
     
-    - __look at a few of them, do they look beginner friendly?__ 
-
-
-
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
-
-    - __how many of such issues are there?__ 
-    
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 25 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/microsoft/autogen/pull/5776)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ March 1 2025
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/microsoft/autogen/pull/4226)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Nov 15 2024
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 2631
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/microsoft/autogen/pull/5765)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  2/28/25
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 3/1/25
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
+Each member of your group should attempt to configure the development environment
 for this project. Complete the following for each member:
 
-Name: 
+Name: David Yu
 
-Operating system: 
+Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
-How long did the whole process take? 
+How long did the whole process take? A few minutes
 
 
 ---
@@ -172,30 +172,30 @@ How long did the whole process take?
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+The project is decently friendly and has enough documentation of good for beginner labeled issues to work on.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+The maintainers generally respond helpfully, but not every issue has a response.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+People are friendly in the issues and the discord.
 
 
 
 __Do pull requests get reviewed?__
-
+Pull requests are reviewed quickly and have automatic checks.
 
 
 __Do maintainers thank people for their contributions?__
-
+Maintainers generally thank people for their contributions, but this depends on the maintainer.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+There are no apparent special skills beyond knowledge on programming that are needed. knowledge on machine learning and AI may be helpful as it relates to the project.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
+No, the requirements for hardware/software are relatively basic. Being able to use git and run a developement environment is enough.
