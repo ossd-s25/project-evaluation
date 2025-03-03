@@ -19,18 +19,18 @@ __Project website:__ [Website](https://www.open-emr.org)
 __What is the purpose of the project:__ A free, open source software solution for medical practices committed to openness, kindness, and cooperation.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ There's a Developer Links section with relevant subpages' links placed at the bottom of the website page, which includes Developer Manuals, and thus it's easy to find info about contributing.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://www.open-emr.org/wiki/index.php/OpenEMR_Wiki_Home_Page#Developer_Manuals) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/openemr/openemr)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/openemr/openemr/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ failed to find any mailing list
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://community.open-emr.org)
 
 __Other communication channels:__ 
 
@@ -39,69 +39,69 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/openemr/openemr/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language(s):__ 
+__Programming Language(s):__ PHP, JavaScript, XSLT, HTML
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/openemr/openemr/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/openemr/openemr/blob/master/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__  [here](https://www.open-emr.org/wiki/index.php/OpenEMR_Downloads). 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they would be easy to follow as there are titles and subtitles in larger and bold font style with bullet point formatting and relevant hyperlinks.
+
+
+__URL for instructions for how to install development environment:__ [here](https://github.com/openemr/openemr/blob/master/CONTRIBUTING.md)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
+Yes, contributing.md contains step-by-step guidelines with screenshots and example supports.
 
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 229 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [bradymiller] (3,176 commits) - [Their Latest Commit](https://github.com/openemr/openemr/commit/1993dc55dc057405531c31ef27905d3919686b0b)
+1. [stephenwaite] (654 commits) - [Their Latest Commit](https://github.com/openemr/openemr/commit/14d4f111c4f6f1b9dd9c702043c1747e76f4e8eb)
+1. [sjpadgett] (646 commits) - [Their Latest Commit](https://github.com/openemr/openemr/commit/06eac712ab8391831e3893243114e1c3c6a0304e)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 10274 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/openemr/openemr/commit/06eac712ab8391831e3893243114e1c3c6a0304e)
 
-- __who made that commit:__ 
+- __who made that commit:__ sjpadgett
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+This commit fixes a bug in the Dicom Viewer where images were resulting in 404 errors when loading.
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [280 Open Issues](https://github.com/openemr/openemr/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/openemr/openemr/issues/8069)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Feb 28, 2025, 2:51 PM EST
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [2437 closed issues](https://github.com/openemr/openemr/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/openemr/openemr/issues/8065)
+    - __how many users discussed the issue:__ 1 people
+    - __when was the issue reported:__ Feb 26, 2025, 6:44 PM EST
+    - __when was the issue closed:__ Feb 28, 2025
 
 - __how active is the discussion on the issues:__ 
 
