@@ -1,7 +1,8 @@
 # Project Evaluation Activity
 
 __Project Name:__ Open Food Facts  
-__Evaluation by:__: Chuqiao Huang
+
+__Evaluation by:__ Chuqiao Huang
 
 ---
 
