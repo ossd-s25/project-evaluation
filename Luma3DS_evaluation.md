@@ -22,7 +22,7 @@ __What is the purpose of the project:__ Luma3DS is a custom firmware for Nintend
 __How easy was it to find information about contributing on the website?__ Hard. I was unable to find any instructions on how to contribute to the project.
 
 
-__Contributing instructions:__ A brief comment on contributions can be found in the Wiki [https://github.com/LumaTeam/Luma3DS/wiki].
+__Contributing instructions:__ A brief comment on contributions can be found in the [Wiki] (https://github.com/LumaTeam/Luma3DS/wiki).
 
 __URL for the code repository:__ [GitHub](https://github.com/LumaTeam/Luma3DS?tab=readme-ov-file)
 
