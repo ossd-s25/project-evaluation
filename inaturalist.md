@@ -165,7 +165,7 @@ Operating system: MacOS
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? It took me 5 minutes.
+How long did the whole process take? It took me 25 minutes.
 
 -----------
 
