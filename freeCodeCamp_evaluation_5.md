@@ -34,86 +34,86 @@ __Mailing list:__ failed to find any mailing list
 
 __Chat channel:__ [Chat channel](https://discord.com/invite/Z7Fm39aNtZ)
 
-__Other communication channels:__ 
+__Other communication channels:__ [Forum](https://forum.freecodecamp.org/)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language(s):__ 
+__Programming Language(s):__ TypeScript, JavaScript, CSS
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__  [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__  it doesn't require any download because it's a website. 
 
 
-__URL for instructions for how to install development environment:__ [here](insert link here)
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes
+
+
+__URL for instructions for how to install development environment:__ [here](https://contribute.freecodecamp.org/how-to-setup-freecodecamp-locally/)
 
 
 __Are these instruction clear? Do you think they would be easy to follow?__
+Yes
 
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 5,325 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [ojeytonwilliams] (1,750 commits) - [Their Latest Commit](https://github.com/freeCodeCamp/freeCodeCamp/commit/3addfc06a8987e4c6d02ae6ff6fffbec688474e3)
+1. [raisedadead] (1,640 commits) - [Their Latest Commit](https://github.com/freeCodeCamp/freeCodeCamp/commit/f0a9e9bb41af2bac081c689335df7a0522f0f742)
+1. [camperbot] (1,533 commits) - [Their Latest Commit](https://github.com/freeCodeCamp/freeCodeCamp/commit/008922aa10e19cab70669b109ed8630961f26a68)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 37669 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/freeCodeCamp/freeCodeCamp/commit/008922aa10e19cab70669b109ed8630961f26a68)
 
-- __who made that commit:__ 
+- __who made that commit:__ camperbot
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+a chore related to internationalization (i18n) and client-side code. Specifically, it processed translations
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [186 Open Issues](https://github.com/freeCodeCamp/freeCodeCamp/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/freeCodeCamp/freeCodeCamp/issues/59106)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 2 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ Mar 3, 2025, 8:28 AM EST
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [18795 closed issues](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/freeCodeCamp/freeCodeCamp/issues/59094)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ Mar 2, 2025, 5:40 PM EST
+    - __when was the issue closed:__ Mar 3, 2025, 3:11 AM EST
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ It's active overall.
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/freeCodeCamp/freeCodeCamp/issues/50843)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/freeCodeCamp/freeCodeCamp/issues/37899)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
     - __how many of such issues are there?__ xxx issues
     
