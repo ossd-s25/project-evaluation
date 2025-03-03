@@ -13,10 +13,10 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://www.open-emr.org)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ A free, open source software solution for medical practices committed to openness, kindness, and cooperation.
 
 
 __How easy was it to find information about contributing on the website?__ 
