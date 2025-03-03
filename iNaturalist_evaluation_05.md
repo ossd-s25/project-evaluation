@@ -32,7 +32,7 @@ __Mailing list:__ None
 
 __Chat channel:__ None
 
-__Other communication channels:__ None
+__Other communication channels:__ [Forum](https://forum.inaturalist.org/)
 
 
 ---
