@@ -103,54 +103,54 @@ __Issues__
     - __when was the issue reported:__ Feb 26, 2025, 6:44 PM EST
     - __when was the issue closed:__ Feb 28, 2025
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ It's active overall.
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/openemr/openemr/issues/3289)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/openemr/openemr/issues/7735)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 72 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes(?
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 99 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ No, it requires some background knowledge of biology or medical statistics.
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 74 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/openemr/openemr/pull/8070)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Mar 2, 2025, 5:55 PM EST
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/openemr/openemr/pull/3529)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ May 18, 2020
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 5267 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/openemr/openemr/pull/8067)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 user
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Feb 27, 2025, 3:35 AM EST
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Feb 28, 2025, 1:55 AM EST
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ## Development Environment 
@@ -158,44 +158,44 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Lily Luo
 
-Operating system: 
+Operating system: Win11
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
 How long did the whole process take? 
-
+around 42 minutes
 
 ---
 
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+OpenEMR is moderately friendly for beginner contributors, there's active community forum and comprehensive guideline instructions, but it requires a complex codebase (PHP, JS) and healthcare domain knowledge.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, maintainers are generally responsive and helpful to questions in issues.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes, the community is generally friendly and welcoming across their communication channels.
 
 
 
 __Do pull requests get reviewed?__
-
+Yes
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
+PHP knowledge
+jQuery
+Basic healthcare workflows and terminology
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
