@@ -147,7 +147,7 @@ __Pull requests__
     
     - __when was the pull request made:__  2/25/2025
     
-    - __when was the pull request closed:__ N/A
+    - __when was the pull request closed:__ 2/28/2025
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ Yes
