@@ -1,0 +1,202 @@
+# Project Evaluation Activity
+
+
+
+__Project Name:__ Dickinson's College Farm
+
+
+---
+
+## Finding info about contributing on the website.
+
+In the following section you should only enter the information that you
+found on the project website. Some of the answers will be impossible to find, others
+may be very hard to find. Do not _google_ for answers.
+
+__Project website:__ [Website](https://www.dickinson.edu/info/20058/college_farm/)
+
+
+__What is the purpose of the project:__ To provide a web application tool for recording and reporting on crop and livestock production on small, organic farm operations.
+
+
+__How easy was it to find information about contributing on the website?__ Not very easy. The repository that holds the contributions information doesn't seem to be referenced on the project webpage.
+
+
+__Contributing instructions:__ [Here](https://github.com/DickinsonCollege/FarmData2/blob/main/CONTRIBUTING.md) 
+
+__URL for the code repository:__ [Code repository](https://github.com/DickinsonCollege/FarmData2)
+
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/DickinsonCollege/FarmData2/issues)
+
+__Mailing list:__ [Mailing list](https://www.dickinson.edu/info/20058/college_farm/)
+
+__Chat channel:__ [Chat channel](https://farmdata2.zulipchat.com/login/#narrow/stream/270883-general)
+
+__Other communication channels:__ 
+
+
+---
+
+## Finding info at the project repository and bug/issue tracker.
+
+__License:__ [License](https://github.com/DickinsonCollege/FarmData2/blob/main/LICENSE.md)
+
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ The code license is. It is the GNU General Public License V3.
+
+__Programming Language(s):__ JavaScript, PHP, HTML, Python.
+
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/DickinsonCollege/FarmData2/blob/main/CONTRIBUTING.md)
+
+__Are the contributing instructions clear?__ Yes, very clear. It has simple, short sections.
+
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/DickinsonCollege/FarmData2/blob/main/CODE_OF_CONDUCT.md)
+
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/DickinsonCollege/FarmData2/blob/main/INSTALL.md). 
+
+
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are very easy to follow.
+
+
+__URL for instructions for how to install development environment:__ [here](https://github.com/DickinsonCollege/FarmData2/blob/main/INSTALL.md)
+
+
+__Are these instruction clear? Do you think they would be easy to follow?__ Yes, they are very easy to follow.
+
+
+__Number of contributors:__ 53 contributors
+
+
+__Usernames of three contributors with largest number of commits; for
+each of them list the link to their latest commit__:
+
+1. [Braughtg] (201 commits) - [Their Latest Commit](https://github.com/DickinsonCollege/FarmData2/commit/8ad149380ae2e88432449f3d61c2c5388fa4d772)
+2. [IrisSC] (43 commits) - [Their Latest Commit](https://github.com/DickinsonCollege/FarmData2/commit/b74e72cf7673c4b7afe82a70790a6c8390b7110a)
+3. [FutzMonitor] (40 commits) - [Their Latest Commit](https://github.com/DickinsonCollege/FarmData2/commit/a5dec763b02d8d381f89c9d42ed050406884a68d)
+
+
+__Number of commits:__ 389 commits
+
+__Latest commit__ 03/09/2024
+
+- __link to the commit:__ [Latest commit](https://github.com/DickinsonCollege/FarmData2/commit/8ad149380ae2e88432449f3d61c2c5388fa4d772)
+
+- __who made that commit:__ Braughtg
+
+- __what type of work was commited?__ File removal (bad naming convention).
+
+
+__Issues__
+
+- __how many open issues are there:__ [43 Open Issues](https://github.com/DickinsonCollege/FarmData2/issues)
+
+    - __url for the last issue created:__ [Last issue created](https://github.com/DickinsonCollege/FarmData2/issues/691)
+
+    - __how many users discuss the issue:__ 4 person
+    
+    - __when was the issue reported:__ 12/04/2023
+    
+
+- __how many closed issues are there:__ [219 closed issues](https://github.com/DickinsonCollege/FarmData2/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/DickinsonCollege/FarmData2/issues/686)
+    - __how many users discussed the issue:__ 0 people
+    - __when was the issue reported:__ 12/02/2023
+    - __when was the issue closed:__ 12/27/2023
+
+- __how active is the discussion on the issues:__ 
+
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/DickinsonCollege/FarmData2/issues/600)
+    
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/DickinsonCollege/FarmData2/issues/643)
+
+
+
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes. They are labeled with "good first issue".
+
+    - __how many of such issues are there?__ 30 issues.
+    
+    - __look at a few of them, do they look beginner friendly?__ Yes. Taking a look at open and closed issues, they are generally simple tasks like add/fixing broken links and documentation updates.
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes. They are labled with "documentation".
+
+    - __how many of such issues are there?__ 56 issues.
+    
+    - __look at a few of them, do you think you could submit a fix?__ Yes. Taking a look at open and closed issues, they are also simple tasks related to updating, fixing, and adding documentation.
+
+
+
+__Pull requests__
+
+- __how many open pull requests are there:__ 8 pull requests
+
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/DickinsonCollege/FarmData2/pull/697)
+    
+    - __when was the last pull request made:__ 03/09/2024
+
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/DickinsonCollege/FarmData2/pull/532)
+    
+    - __when was the oldest pull request made:__ 07/12/2022
+
+- __how many closed pull requests are there:__ 427 pull requests
+
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/DickinsonCollege/FarmData2/pull/1)
+    
+    - __how many users discussed the pull request:__ 0 users
+    
+    - __when was the pull request made:__  10/09/2020
+    
+    - __when was the pull request closed:__ 10/10/2020
+    
+
+- __do maintainers respond quickly to pull requests when they are opened?__ They used too. The project has slowed progress. There doesn't seem to be any new commits from this year.
+
+
+## Development Environment 
+
+Each member of your group should attempt to configure the development environemnt 
+for this project. Complete the following for each member:
+
+Name: Justin Chen
+
+Operating system: Windows
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it): Yes, it was successful.
+
+How long did the whole process take?: About an hours. The documentation is simple anad straightforward.
+
+---
+
+
+## Summary assesment
+__How friendly is this project for beginner contributors?__
+
+Very friendly. The tasks are on a smaller scale so definetly approachable and doable. 
+
+
+__Do the maintainers respond helpfully to questions in issues?__
+
+Yes, they do.
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+
+Yes, they are. They use Zulip for their community discussions.
+
+__Do pull requests get reviewed?__
+
+Yes. they get reviewed and merged. 
+
+__Do maintainers thank people for their contributions?__
+
+I would outright say "thank you", but they do show their appreciation through their word choices. 
+
+__Are there special skills required to contribute to the project? If so, what are they?__
+
+Not really. Just read the documentation carefully and having some knowledge of JavaScript, PHP, HTML, and Python are needed to understand and contribute to the code.
+
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+Just software. You need to have Git, Docker Desktop, and TigerVNC Viewer. Also the code langugages specified above.
+

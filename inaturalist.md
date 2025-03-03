@@ -32,7 +32,7 @@ __Mailing list:__ [Mailing List](https://www.inaturalist.org/blog)
 
 __Chat channel:__ [Chat](https://forum.inaturalist.org/)
 
-__Other communication channels:__ N/A
+__Other communication channels:__ [Here](https://forum.inaturalist.org/)
 
 
 ---
@@ -147,7 +147,7 @@ __Pull requests__
     
     - __when was the pull request made:__  2/25/2025
     
-    - __when was the pull request closed:__ N/A
+    - __when was the pull request closed:__ 2/28/2025
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ Yes
@@ -165,7 +165,7 @@ Operating system: MacOS
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it) Yes the installation was successful.
 
-How long did the whole process take? It took me 5 minutes.
+How long did the whole process take? It took me 25 minutes.
 
 -----------
 
