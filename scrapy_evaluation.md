@@ -46,7 +46,7 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language(s):__ Python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://docs.scrapy.org/en/master/contributing.html)
 
 __Are the contributing instructions clear?__ Yes, they list out multiple ways one can contribute to scrapy and also go into more detail for each way.
 
