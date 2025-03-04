@@ -162,9 +162,9 @@ Name: Michelle Cai
 Operating system: Mac
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it.)
+what you did to try to remedy it.) No, it is only supported on Linux and Windows. I don't think this is supported on Mac.
 
-How long did the whole process take? 
+How long did the whole process take? N/A
 
 
 ---
@@ -173,28 +173,31 @@ How long did the whole process take?
 ## Summary assessment
 __How friendly is this project for beginner contributors?__
 
-
+I don't think this project is that beginner friendly, since there aren't that many good first issues and it seems quite complex (I feel like you need a linguistic background as well).
 
 
 __Do the maintainers respond helpfully to questions on issues?__
 
+No, the reponse time is relatively slow compared to some other projects. This project is also completely run by volunteers, so the response times vary. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+Yes, I think they are friendly.
 
 
 __Do pull requests get reviewed?__
 
-
+I think they do, but it sometimes take a while.
 
 __Do maintainers thank people for their contributions?__
 
-
+No.
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+Yes, I think you would need to know about language backgrounds.
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+You need to have either Linux or Windows. 
