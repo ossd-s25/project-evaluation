@@ -161,7 +161,7 @@ for this project. Complete the following for each member:
 
 **Name:** Brizen Britt
 
-**Operating system:** MacOs
+**Operating system:** MacOS
 
 **Was the installation successful?** Yes, however for whatever reason GithubDesktop took much longer than expected.
 
@@ -169,15 +169,18 @@ for this project. Complete the following for each member:
 
 **Name:** Jacob Padilla
 
-**Operating system:** MacOs
+**Operating system:** MacOS
 
 **Was the installation successful?** Yes
 
 **How long did the whole process take?** A few minutes.
 
 **Name:** Ajok Thon
-**Operating system:** MacOs
+
+**Operating system:** MacOS
+
 **Was the installation successful?** Yes
+
 **How long did the whole process take?** About 20min.
 
 ---
