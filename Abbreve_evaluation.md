@@ -175,7 +175,10 @@ for this project. Complete the following for each member:
 
 **How long did the whole process take?** A few minutes.
 
-
+**Name:** Ajok Thon
+**Operating system:** MacOs
+**Was the installation successful?** Yes
+**How long did the whole process take?** About 20min.
 
 ---
 
