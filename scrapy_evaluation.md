@@ -2,7 +2,7 @@
 
 
 
-__Project Name: Scrapy __  
+__Project Name:__  Scrapy
 
 
 ---
