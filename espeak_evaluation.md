@@ -96,17 +96,17 @@ __Issues__
     - __when was the issue reported:__ 3 days ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [548 closed issues](https://github.com/espeak-ng/espeak-ng/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/espeak-ng/espeak-ng/issues/2131)
+    - __how many users discussed the issue:__ 5 people
+    - __when was the issue reported:__ January 20
+    - __when was the issue closed:__ January 23
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ I would say relatively active overall. It seems like when an issue is posted, someone responds to it pretty quickly.
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/espeak-ng/espeak-ng/issues/2131)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/espeak-ng/espeak-ng/issues/2017)
 
 
 
