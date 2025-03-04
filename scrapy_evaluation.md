@@ -2,7 +2,7 @@
 
 
 
-__Project Name: Terraform __  
+__Project Name: Scrapy __  
 
 
 ---
@@ -13,24 +13,23 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website]([insert link here](https://github.com/hashicorp/terraform))
+__Project website:__ [Website](https://scrapy.org/)
 
 
-__What is the purpose of the project:__ Terraform is a tool that is used for building, changing, and versioning infrastructure safely and efficiently 
+__What is the purpose of the project:__ Scrapy is an open-source project used to easily scrape data from a webpage.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ I believe it was quite easy. If you look at their Github page, it's quite easy to find a link to their Contributing doc.
 
+__Contributing instructions:__ [Here](https://docs.scrapy.org/en/master/contributing.html) 
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ [Code repository](https://github.com/scrapy/scrapy?tab=readme-ov-file)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/scrapy/scrapy/issues)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Mailing list:__ [Twitter (for updates)](https://x.com/ScrapyProject)
 
-__Mailing list:__ [Mailing list](insert link here)
-
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.com/invite/mv3yErfpvq)
 
 __Other communication channels:__ 
 
@@ -39,18 +38,18 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/scrapy/scrapy/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes (BSD-3)
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python
 
 __URL for contributing instructions:__ [Contributing instructions](insert link here)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes, they list out multiple ways one can contribute to scrapy and also go into more detail for each way.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/scrapy/scrapy/blob/master/CODE_OF_CONDUCT.md)
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
