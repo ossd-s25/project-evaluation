@@ -63,37 +63,37 @@ __URL for instructions for how to install development environment:__ [here](http
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes, I think if there is an issue it might be hard to resolve however.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 146 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them lists the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [rhdunn] (2,472 commits) - [Their Latest Commit](https://github.com/espeak-ng/espeak-ng/commit/a13f9bb62a45cb07b79ac49c9a9455924d100417)
+1. [valdisvi] (587 commits) - [Their Latest Commit](https://github.com/espeak-ng/espeak-ng/commit/95768ad79f301546f5618afca0c12619ed313c15)
+1. [jaacoppi] (319 commits) - [Their Latest Commit](https://github.com/espeak-ng/espeak-ng/commit/53018dffc964dc9cc29f1672077cc4e454354041)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 5,955 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/espeak-ng/espeak-ng/commit/2ea4121054e245301d3b2b7aa1b7cf8599b479b8)
 
-- __who made that commit:__ 
+- __who made that commit:__ sthibaul
 
-- __what type of work was committed?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was committed?__ They changed the file to speed up the installation process. 
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [495 Open Issues](https://github.com/espeak-ng/espeak-ng/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/espeak-ng/espeak-ng/issues/2151)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 3 days ago
     
 
 - __how many closed issues are there:__ [xxx closed issues](insert link here)
