@@ -7,9 +7,9 @@ __Project Name:__
 
 ---
 
-## Finding info about contributing on the website.
+## Find info about contributing to the website.
 
-In the following section you should only enter the information that you
+In the following section, you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
@@ -37,7 +37,7 @@ __Other communication channels:__
 
 ---
 
-## Finding info at the project repository and bug/issue tracker.
+## Find info at the project repository and bug/issue tracker.
 
 __License:__ [License](insert link here)
 
@@ -50,7 +50,7 @@ __URL for contributing instructions:__ [Contributing instructions](insert link h
 __Are the contributing instructions clear?__ 
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guidelines:__ [Community Guidelines](insert link here)
 
 __URL for instructions for users to download and install the package:__  [here](insert link here). 
 
@@ -61,14 +61,14 @@ __Are these instructions clear? Do you think they would be easy to follow?__
 __URL for instructions for how to install development environment:__ [here](insert link here)
 
 
-__Are these instruction clear? Do you think they would be easy to follow?__
+__Are these instructions clear? Do you think they would be easy to follow?__
 
 
 __Number of contributors:__ xxx contributors
 
 
 __Usernames of three contributors with largest number of commits; for
-each of them list the link to their latest commit__:
+each of them lists the link to their latest commit__:
 
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
 1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
@@ -83,7 +83,7 @@ __Latest commit__
 
 - __who made that commit:__ 
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was committed?__ (was it a fix to a bug, implementation of a new feature, ...)
 
 
 __Issues__
@@ -111,19 +111,19 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many such issues are there?__ xxx issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them; do they look beginner friendly?__ 
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many such issues are there?__ 
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them; do you think you could submit a fix?__ 
 
 
 
@@ -155,7 +155,7 @@ __Pull requests__
 
 ## Development Environment 
 
-Each member of your group should attempt to configure the development environemnt 
+Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
 Name: 
@@ -163,7 +163,7 @@ Name:
 Operating system: 
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it.)
 
 How long did the whole process take? 
 
@@ -171,13 +171,13 @@ How long did the whole process take?
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions on issues?__
 
 
 
