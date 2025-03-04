@@ -110,46 +110,46 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ yes, there is a "good first issue" tag
 
-    - __how many such issues are there?__ xxx issues
+    - __how many such issues are there?__ 4 issues
     
-    - __look at a few of them; do they look beginner friendly?__ 
+    - __look at a few of them; do they look beginner friendly?__ No, honestly they do not.
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ yes, under "documentation"
 
-    - __how many such issues are there?__ 
+    - __how many such issues are there?__ 4 issues
     
-    - __look at a few of them; do you think you could submit a fix?__ 
+    - __look at a few of them; do you think you could submit a fix?__ No, I don't think I could submit a fix.
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 33 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/espeak-ng/espeak-ng/pull/2150)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 3 days ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/espeak-ng/espeak-ng/pull/1273)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ August 5, 2022
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 1,007
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/espeak-ng/espeak-ng/pull/2148)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 user
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Last week
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Last week
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Not quite, the most recent open pull requests have not received a response (it's been around one week). it may take some additional time for a maintainer to respond.
 
 
 ## Development Environment 
@@ -157,9 +157,9 @@ __Pull requests__
 Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Michelle Cai
 
-Operating system: 
+Operating system: Mac
 
 Was the installation successful? (if not, explain what went wrong and 
 what you did to try to remedy it.)
