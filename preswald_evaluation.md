@@ -3,7 +3,7 @@
 
 
 __Project Name:__  
-
+Preswald
 
 ---
 
@@ -13,24 +13,24 @@ In the following section, you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://www.preswald.com)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It was easy
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://github.com/StructuredLabs/preswald/blob/main/CONTRIBUTING.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/StructuredLabs/preswald)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/StructuredLabs/preswald/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](https://preswald-community.slack.com/signup#/domain-signup)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://preswald-community.slack.com/signup#/domain-signup)
 
 __Other communication channels:__ 
 

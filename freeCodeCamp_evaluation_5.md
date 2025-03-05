@@ -113,15 +113,15 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes, labeled as first timers only
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 911 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ failed to find any labels
 
     - __how many of such issues are there?__ 
     
@@ -131,28 +131,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 86 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/freeCodeCamp/freeCodeCamp/pull/59111)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Mar 3, 2025, 2:19 PM EST
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/freeCodeCamp/freeCodeCamp/pull/53127)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Jan 11, 2024
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 39206 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/freeCodeCamp/freeCodeCamp/pull/59107)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 3 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Mar 3, 2025, 9:02 AM EST
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Mar 3, 2025, 11:59 AM EST
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ## Development Environment 
@@ -160,44 +160,45 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Lily Luo
 
-Operating system: 
+Operating system: Win11
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it)
+what you did to try to remedy it) Yes
 
 How long did the whole process take? 
-
+20 minutes
 
 ---
 
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+freeCodeCamp is very beginner-friendly for contributors (Clear documentation, active community, Comprehensive contributing guidelines).
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes, the freeCodeCamp community is known for being friendly and supportive across their issues, discussion forums, and Discord chat.
 
 
 
 __Do pull requests get reviewed?__
-
+Yes
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+No special skills are required to start contributing.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+No special hardware requirements exist for contributing to freeCodeCamp.

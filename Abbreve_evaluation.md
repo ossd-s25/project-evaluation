@@ -159,15 +159,29 @@ __Pull requests__
 Each member of your group should attempt to configure the development environemnt 
 for this project. Complete the following for each member:
 
-Name: Brizen Britt
+**Name:** Brizen Britt
 
-Operating system: MacOs
+**Operating system:** MacOS
 
-Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it) Yes, however for whatever reason GithubDesktop took much longer than expected.
+**Was the installation successful?** Yes, however for whatever reason GithubDesktop took much longer than expected.
 
-How long did the whole process take? At most 10 min.
+**How long did the whole process take?** At most 10 min.
 
+**Name:** Jacob Padilla
+
+**Operating system:** MacOS
+
+**Was the installation successful?** Yes
+
+**How long did the whole process take?** A few minutes.
+
+**Name:** Ajok Thon
+
+**Operating system:** MacOS
+
+**Was the installation successful?** Yes
+
+**How long did the whole process take?** About 20min.
 
 ---
 
