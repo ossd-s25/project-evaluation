@@ -188,14 +188,23 @@ __Are people friendly in the issues, discussion forum, and chat (for example, IR
 
 __Do pull requests get reviewed?__
 
-
+A fair amount of pull requests get reviewed but it seems as those that are labelled as fixes get reviewed faster. There have been 5 closed PRs in the last week.
 
 __Do maintainers thank people for their contributions?__
 
+Contributors are not usually directly thanked in comments however credits for contributions are given through Credits section.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+This project doesn't require any special skills but previous design illustration experience would be a boon.
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+In order to add svg icons you may have to use an illustrator such as:
+- Figma
+- Adobe illustrator
+- Inkscape
+- Affinity
+
+You will also need minimum version of Nodejs 16.4+ For package management you will need PNPM. 
