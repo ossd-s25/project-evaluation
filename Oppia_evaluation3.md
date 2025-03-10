@@ -119,7 +119,7 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ not really(?), but there're particular labels like 'frontend', 'backend', 'fullstack'
 
     - __how many such issues are there?__ 
     
@@ -129,28 +129,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 39 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/oppia/oppia/pull/22070)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Mar 6, 2025, 8:20 AM EST
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/oppia/oppia/pull/20809)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Aug 10, 2024
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 12177 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/oppia/oppia/pull/22081)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Mar 8, 2025
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Mar 9, 2025
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ## Development Environment 
