@@ -28,9 +28,9 @@ __URL for the code repository:__ [Code repository](https://github.com/oppia/oppi
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/oppia/oppia/issues)
 
-__Mailing list:__ [Mailing list]()
+__Mailing list:__ [Mailing list](https://groups.google.com/g/oppia-announce)
 
-__Chat channel:__ [Chat channel]()
+__Chat channel:__ [Chat channel](https://github.com/oppia/oppia/discussions)
 
 __Other communication channels:__ 
 
@@ -39,29 +39,29 @@ __Other communication channels:__
 
 ## Find info at the project repository and bug/issue tracker.
 
-__License:__ [License]()
+__License:__ [License](https://github.com/oppia/oppia/blob/develop/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language(s):__ 
+__Programming Language(s):__ Python, TypeScript, HTML
 
-__URL for contributing instructions:__ [Contributing instructions]()
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/oppia/oppia/wiki)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guidelines:__ [Community Guidelines]()
-
-__URL for instructions for users to download and install the package:__  [here](). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guidelines:__ [Community Guidelines](https://github.com/oppia/oppia?tab=coc-ov-file)
+
+__URL for instructions for users to download and install the package:__  [here](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia#setting-things-up). 
+
+
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
 
 __URL for instructions for how to install development environment:__ [here]()
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__
+__Are these instructions clear? Do you think they would be easy to follow?__Yes
 
 
 __Number of contributors:__ xxx contributors
@@ -70,16 +70,16 @@ __Number of contributors:__ xxx contributors
 __Usernames of three contributors with largest number of commits; for
 each of them lists the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Name] (xxx commits) - [Their Latest Commit]()
+1. [Name] (xxx commits) - [Their Latest Commit]()
+1. [Name] (xxx commits) - [Their Latest Commit]()
 
 
 __Number of commits:__ xxxx commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit]()
 
 - __who made that commit:__ 
 
@@ -88,26 +88,26 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [xxx Open Issues]()
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created]()
 
     - __how many users discuss the issue:__ xx person
     
     - __when was the issue reported:__ 
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
+- __how many closed issues are there:__ [xxx closed issues]()
+    - __url for the last issue closed:__ [Last issue closed]()
     - __how many users discussed the issue:__ xx people
     - __when was the issue reported:__ 
     - __when was the issue closed:__ 
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion]()
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion]()
 
 
 
