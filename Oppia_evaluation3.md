@@ -121,9 +121,9 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ not really(?), but there're particular labels like 'frontend', 'backend', 'fullstack'
 
-    - __how many such issues are there?__ 
+    - __how many such issues are there?__ N/A
     
-    - __look at a few of them; do you think you could submit a fix?__ 
+    - __look at a few of them; do you think you could submit a fix?__ Yes. Some of them are a lot simpler in terms of scope.
 
 
 
@@ -158,14 +158,15 @@ __Pull requests__
 Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Justin Chen
 
-Operating system: 
+Operating system: Windows
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it.)
+what you did to try to remedy it.): Yes, it was successful. 
 
-How long did the whole process take? 
+How long did the whole process take?: About 3-4 hours. Had some dependency issues, but was able to resolve them.
+
 
 
 ---
@@ -174,28 +175,32 @@ How long did the whole process take?
 ## Summary assessment
 __How friendly is this project for beginner contributors?__
 
-
+Quite friendly. There are a variety of ways to contribute, code and non-code related.
 
 
 __Do the maintainers respond helpfully to questions on issues?__
+
+Yes. The responses are usually quick. 
 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+Yes. There is a community guideline. People are encouraging and provide various solutions to issues.
 
 
 __Do pull requests get reviewed?__
 
-
+Yes, they do.
 
 __Do maintainers thank people for their contributions?__
 
-
+Not directly. But they encourage progress and provide helpful feedbacks.
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+Yes. Knowldge of Python, TypeScript, HTML, JavaScript, and CSS. Other background knowledge is required to contribute to the educational content side of the project (e.g. basic math, etc).
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+Yes. You need to have a linux subsystem (WSL) and Ubuntu. Depending on the installation method, you may need to install Virtual Box or Docker. There are also some basic hardware requirements (all you need is an avergae office computer really--device specs are not that high and doesn't require too much ram to make the dev builds).
