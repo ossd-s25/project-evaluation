@@ -58,64 +58,64 @@ __URL for instructions for users to download and install the package:__  [here](
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes
 
 
-__URL for instructions for how to install development environment:__ [here]()
+__URL for instructions for how to install development environment:__ [here](https://github.com/oppia/oppia/wiki/Installing-Oppia)
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__Yes
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__746 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them lists the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit]()
-1. [Name] (xxx commits) - [Their Latest Commit]()
-1. [Name] (xxx commits) - [Their Latest Commit]()
+1. [seanlip] (4,272 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/fd7a6bf3a50d9debe00f21580d16c57dc58763a1)
+1. [vojtechjelinek] (526 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/b4ee6426a57353cf88345e020c6237ad8af1765f)
+1. [BenHenning] (443 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/aafab950e211275d9b2af8fbb3491540c5e419c7)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 16019 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit]()
+- __link to the commit:__ [Latest commit](https://github.com/oppia/oppia/commit/8b3b4cec44cd328ca92e02c106f8bdc3172f6bbe)
 
-- __who made that commit:__ 
+- __who made that commit:__himkar-cmd
 
 - __what type of work was committed?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+The commit fixed a 404 Not Found error that was occurring on a valid collection player page
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues]()
+- __how many open issues are there:__ [1,423 Open Issues](https://github.com/oppia/oppia/issues)
 
-    - __url for the last issue created:__ [Last issue created]()
+    - __url for the last issue created:__ [Last issue created](https://github.com/oppia/oppia/issues/22083)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
     - __when was the issue reported:__ 
+    Mar 9, 2025, 2:47 PM EDT
+
+- __how many closed issues are there:__ [7,057 closed issues](https://github.com/oppia/oppia/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/oppia/oppia/issues/22061)
+    - __how many users discussed the issue:__ 3 people
+    - __when was the issue reported:__ Mar 5, 2025, 3:59 PM EST
+    - __when was the issue closed:__ Mar 7, 2025, 1:03 PM EST
+
+- __how active is the discussion on the issues:__ very active overall!
+
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/oppia/oppia/issues/7643)
     
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/oppia/oppia/issues/17095)
 
-- __how many closed issues are there:__ [xxx closed issues]()
-    - __url for the last issue closed:__ [Last issue closed]()
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
 
-- __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion]()
+- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ Yes
+
+    - __how many such issues are there?__ 433 issues
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion]()
-
-
-
-- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ 
-
-    - __how many such issues are there?__ xxx issues
-    
-    - __look at a few of them; do they look beginner friendly?__ 
+    - __look at a few of them; do they look beginner friendly?__ Yes
 
 
 
