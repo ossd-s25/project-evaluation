@@ -161,14 +161,14 @@ __Pull requests__
 Each member of your group should attempt to configure the development environment 
 for this project. Complete the following for each member:
 
-Name: 
+Name: Brizen Britt
 
-Operating system: 
+Operating system: MacOS
 
 Was the installation successful? (if not, explain what went wrong and 
-what you did to try to remedy it.)
+what you did to try to remedy it.) Yes
 
-How long did the whole process take? 
+How long did the whole process take? 5 min to update my version of Node.js and to install pnpm.
 
 
 ---
