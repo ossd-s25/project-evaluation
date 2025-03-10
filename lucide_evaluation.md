@@ -122,9 +122,9 @@ However, some have a lot of comments and there are also pretty active discussion
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
 
-    - __how many such issues are there?__
+    - __how many such issues are there?__ There are none that are currently open. There was one issue with the "documentation" label that was closed last year.
 
-    - __look at a few of them; do you think you could submit a fix?__
+    - __look at a few of them; do you think you could submit a fix?__ The one that was closed, would of been easy to fix.
 
 
 
