@@ -22,7 +22,7 @@ __What is the purpose of the project:__ Lucide provides an open-source library o
 __How easy was it to find information about contributing on the website?__ Very easy, they have a link at the bottom of the page.
 
 
-__Contributing instructions:__ [Here](https://lucide.dev/contributing) 
+__Contributing instructions:__ [Here](https://lucide.dev/contributing)
 
 __URL for the code repository:__ [Code repository](https://github.com/lucide-icons/lucide)
 
@@ -52,7 +52,7 @@ __Are the contributing instructions clear?__ Yes. They clearly lay out how to co
 
 __URL for code of conduct / community norms / community guidelines:__ [Community Guidelines](https://github.com/lucide-icons/lucide/blob/main/CODE_OF_CONDUCT.md)
 
-__URL for instructions for users to download and install the package:__  [here](https://github.com/lucide-icons/lucide/blob/main/docs/guide/installation.md). 
+__URL for instructions for users to download and install the package:__  [here](https://github.com/lucide-icons/lucide/blob/main/docs/guide/installation.md).
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes, the instructions clearly lay out how to install the necessary packages and dependencies.
@@ -88,42 +88,43 @@ __Latest commit__ Update peerDependencies to support Svelte 5
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [202 Open Issues](https://github.com/lucide-icons/lucide/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/lucide-icons/lucide/issues/2887)
 
-    - __how many users discuss the issue:__ xx person
-    
-    - __when was the issue reported:__ 
-    
+    - __how many users discuss the issue:__ 0 people
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
-
-- __how active is the discussion on the issues:__ 
-
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
-    
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __when was the issue reported:__ 10 minutes ago (2:40pm on March 10th 2025)
 
 
+- __how many closed issues are there:__ [657 closed issues](https://github.com/lucide-icons/lucide/issues?q=is%3Aissue%20state%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/lucide-icons/lucide/issues/2883)
+    - __how many users discussed the issue:__ 1 person
+    - __when was the issue reported:__ Yesterday
+    - __when was the issue closed:__ The same day that it was opened!
 
-- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__ 
+- __how active is the discussion on the issues:__ Most of the issues only have a few comments, because they are mostly icon requests.
+However, some have a lot of comments and there are also pretty active discussions in the "Discussions" section of GitHub for the project.
 
-    - __how many such issues are there?__ xxx issues
-    
-    - __look at a few of them; do they look beginner friendly?__ 
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/lucide-icons/lucide/issues/2776)
+
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/lucide-icons/lucide/issues/2813)
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "good for newbies", "beginner," or some other indicators that imply that they are good for beginner contributors:__
 
-    - __how many such issues are there?__ 
-    
-    - __look at a few of them; do you think you could submit a fix?__ 
+    - __how many such issues are there?__ 1 issue
+
+    - __look at a few of them; do they look beginner friendly?__ The issues on the project look fun and approachable!
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+
+    - __how many such issues are there?__
+
+    - __look at a few of them; do you think you could submit a fix?__
 
 
 
@@ -132,40 +133,40 @@ __Pull requests__
 - __how many open pull requests are there:__ xx pull requests
 
     - __url for the last pull request created:__ [Last Pull Request created]()
-    
+
     - __when was the last pull request made:__ [Last Pull Request created]()
 
     - __url for the oldest pull request created:__ [Oldest Pull Request created]()
-    
-    - __when was the oldest pull request made:__ 
 
-- __how many closed pull requests are there:__ 
+    - __when was the oldest pull request made:__
+
+- __how many closed pull requests are there:__
 
     - __url for the last pull request closed:__ [Last Pull Request closed]()
-    
+
     - __how many users discussed the pull request:__ xx users
-    
-    - __when was the pull request made:__  
-    
-    - __when was the pull request closed:__ 
-    
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+    - __when was the pull request made:__
+
+    - __when was the pull request closed:__
 
 
-## Development Environment 
+- __do maintainers respond quickly to pull requests when they are opened?__
 
-Each member of your group should attempt to configure the development environment 
+
+## Development Environment
+
+Each member of your group should attempt to configure the development environment
 for this project. Complete the following for each member:
 
-Name: 
+Name:
 
-Operating system: 
+Operating system:
 
-Was the installation successful? (if not, explain what went wrong and 
+Was the installation successful? (if not, explain what went wrong and
 what you did to try to remedy it.)
 
-How long did the whole process take? 
+How long did the whole process take?
 
 
 ---
