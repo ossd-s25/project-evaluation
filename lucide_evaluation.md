@@ -77,13 +77,13 @@ each of them lists the link to their latest commit__:
 
 __Number of commits:__ 2,002 commits
 
-__Latest commit__ Update peerDependencies to support Svelte 5
+__Latest commit__ March 7th 2025
 
-- __link to the commit:__ [Latest commit](https://github.com/lucide-icons/lucide/commit/aefb710e5c64b3d569b6e3eafa7516c273a1bf4a)
+- __link to the commit:__ [Latest commit](https://github.com/lucide-icons/lucide/commit/9b738c1cb67e6c3acca3eb55df1f35b971ff9d30)
 
 - __who made that commit:__ ericfennis
 
-- __what type of work was committed?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was committed?__ Added bluesky and spotify to brand list filter
 
 
 __Issues__
@@ -121,6 +121,9 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
+    - __how many such issues are there?__ There are none that are currently open. There was one issue with the "documentation" label that was closed last year.
+
+    - __look at a few of them; do you think you could submit a fix?__ The one that was closed, would of been easy to fix.
     - __how many such issues are there?__ 
     
     - __look at a few of them; do you think you could submit a fix?__ 
