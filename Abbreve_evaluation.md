@@ -146,12 +146,12 @@ __Pull requests__
     
     - __how many users discussed the pull request:__ 1 users
     
-    - __when was the pull request made:__  December 22 2024
+    - __when was the pull request made:__  July 6 2024
     
     - __when was the pull request closed:__ December 22 2024
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ Yes.
+- __do maintainers respond quickly to pull requests when they are opened?__ No.
 
 
 ## Development Environment 
@@ -161,7 +161,7 @@ for this project. Complete the following for each member:
 
 **Name:** Brizen Britt
 
-**Operating system:** MacOs
+**Operating system:** MacOS
 
 **Was the installation successful?** Yes, however for whatever reason GithubDesktop took much longer than expected.
 
@@ -169,27 +169,30 @@ for this project. Complete the following for each member:
 
 **Name:** Jacob Padilla
 
-**Operating system:** MacOs
+**Operating system:** MacOS
 
 **Was the installation successful?** Yes
 
 **How long did the whole process take?** A few minutes.
 
 **Name:** Ajok Thon
-**Operating system:** MacOs
+
+**Operating system:** MacOS
+
 **Was the installation successful?** Yes
+
 **How long did the whole process take?** About 20min.
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__ It is very beginner friendly, the project is a bit small but there seems to be opportunity to make interesting helpful contributions. The owner seems to be active and approachable. If not for bigger feature additions, there is room for smaller contributions.
+__How friendly is this project for beginner contributors?__ It is very beginner friendly, the project is a bit small but there seems to be opportunity to make interesting helpful contributions. However,the owner seems to be non-active. If not for bigger feature additions, there is room for smaller contributions.
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__ Yes.
+__Do the maintainers respond helpfully to questions in issues?__ Yes, but they can be extremely slow.
 
 
 
