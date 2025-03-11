@@ -173,6 +173,14 @@ How long did the whole process take? 5 min to update my version of Node.js and t
 
 ---
 
+Name: Shamaamah Ahmad
+
+Operating system: MacOS
+
+Was the installation successful? (if not, explain what went wrong and 
+what you did to try to remedy it.) Yes
+
+How long did the whole process take? Whole process took abaout 10 minutes for me including reading instructions and downloading.
 
 ## Summary assessment
 __How friendly is this project for beginner contributors?__
